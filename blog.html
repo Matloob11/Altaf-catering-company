@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Altaf Catering Official Blog</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playball&display=swap"
+        rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- WhatsApp Button -->
+    <a href="https://wa.me/923039907296" class="whatsapp-btn btn btn-success position-fixed rounded-circle"
+        target="_blank">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Sticky Social Buttons (stacked above WhatsApp) -->
+    <div class="social-buttons" aria-hidden="false">
+        <!-- TikTok -->
+        <a href="https://www.tiktok.com/@altafcateringcompany?_t=8scdCc9SFQ9&_r=1" class="social-tiktok" target="_blank"
+            rel="noopener" aria-label="TikTok">
+            <i class="fab fa-tiktok"></i>
+        </a>
+
+        <!-- Facebook -->
+        <a href="https://web.facebook.com/AltafCateringCompany?mibextid=ZbWKwL&_rdc=1&_rdr#" class="social-facebook"
+            target="_blank" rel="noopener" aria-label="Facebook">
+            <i class="fab fa-facebook-f"></i>
+        </a>
+
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/altafcateringcompany/" class="social-instagram" target="_blank"
+            rel="noopener" aria-label="Instagram">
+            <i class="fab fa-instagram"></i>
+        </a>
+
+        <!-- YouTube -->
+        <a href="https://www.youtube.com/@Altafcateringcompanyy" class="social-youtube" target="_blank" rel="noopener"
+            aria-label="YouTube">
+            <i class="fab fa-youtube"></i>
+        </a>
+    </div>
+
+    <!-- Spinner Start -->
+    <div id="spinner"
+        class="show w-100 vh-100 bg-white position-fixed translate-middle top-50 start-50  d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" role="status"></div>
+    </div>
+    <!-- Spinner End -->
+
+
+    <!-- Navbar start -->
+    <div class="container-fluid nav-bar">
+        <div class="container">
+            <nav class="navbar navbar-light navbar-expand-lg py-4">
+                <a href="index.html" class="navbar-brand d-flex align-items-center">
+                    <!-- Logo image from img/ (kept modest size for navbar) -->
+                    <img src="img/logo.png" alt="CaterServ" style="height:48px; width:auto;" class="me-2">
+                    <!-- Keep a small textual brand for accessibility / fallback on larger screens -->
+                    <span class="h5 mb-0 fw-bold text-primary d-none d-md-inline">ALTAF<span
+                            class="text-dark">CATERING</span></span>
+                </a>
+                <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars text-primary"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav mx-auto">
+                        <a href="index.html" class="nav-item nav-link">Home</a>
+                        <a href="about.html" class="nav-item nav-link">About</a>
+                        <a href="service.html" class="nav-item nav-link">Services</a>
+                        <a href="event.html" class="nav-item nav-link">Events</a>
+                        <a href="menu.html" class="nav-item nav-link">Menu</a>
+                        <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                            <div class="dropdown-menu bg-light">
+                                <a href="book.html" class="dropdown-item">Booking</a>
+                                <a href="blog.html" class="dropdown-item active">Our Blog</a>
+                                <a href="team.html" class="dropdown-item">Our Team</a>
+                                <a href="pricing.html" class="dropdown-item">Pricing & FAQS</a>
+                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                                <a href="404.html" class="dropdown-item">404 Page</a>
+                            </div>
+                        </div>
+                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                    </div>
+                    <button class="btn-search btn btn-primary btn-md-square me-4 rounded-circle d-none d-lg-inline-flex"
+                        data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button>
+                    <a href="contact.html" class="btn btn-primary py-2 px-4 d-none d-xl-inline-block rounded-pill">Book
+                        Now</a>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <!-- Navbar End -->
+
+
+    <!-- Modal Search Start -->
+    <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content rounded-0">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="searchModalLabel">Search the site</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body d-flex align-items-start flex-column">
+                    <form id="siteSearchForm" class="w-100">
+                        <div class="input-group w-75 mx-auto mb-3">
+                            <input id="siteSearchInput" name="q" type="search" class="form-control bg-transparent p-3"
+                                placeholder="Type keywords and press Enter (e.g. wedding, menu, booking)"
+                                aria-label="Search site">
+                            <button class="btn btn-primary" type="submit" aria-label="Search"><i
+                                    class="fa fa-search"></i></button>
+                        </div>
+                    </form>
+
+                    <div class="container">
+                        <div id="searchStatus" class="text-center text-muted mb-3">Enter a keyword to search the site.
+                        </div>
+                        <div id="searchResults" class="row g-3 justify-content-center"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Search End -->
+
+
+    <!-- Hero Start -->
+    <div class="container-fluid bg-light py-6 my-6 mt-0">
+        <div class="container text-center animated bounceInDown">
+            <h1 class="display-1 mb-4">Our Blog</h1>
+            <ol class="breadcrumb justify-content-center mb-0 animated bounceInDown">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                <li class="breadcrumb-item text-dark" aria-current="page">Our Blog</li>
+            </ol>
+        </div>
+    </div>
+    <!-- Hero End -->
+
+
+    <!-- Blog Start -->
+    <div class="container-fluid blog py-6">
+        <div class="container">
+            <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
+                <small
+                    class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our
+                    Blog</small>
+                <h1 class="display-5 mb-5">Be First Who Read News</h1>
+            </div>
+            <div class="row gx-4 justify-content-center">
+                <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s">
+                    <div class="blog-item">
+                        <div class="overflow-hidden rounded">
+                            <img src="img/blog-1.jpg" class="img-fluid w-100" alt="Keep food fresh at events">
+                        </div>
+                        <div class="blog-content mx-4 d-flex rounded bg-light">
+                            <div class="text-dark bg-primary rounded-start">
+                                <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
+                                    <p class="fw-bold mb-0">10</p>
+                                    <p class="fw-bold mb-0">Oct</p>
+                                </div>
+                            </div>
+                            <div class="my-auto h-100 p-3 text-start">
+                                <a href="blog.html#post1" class="h5 lh-base d-block">5 Tips to Keep Food Fresh at Large
+                                    Events</a>
+                                <p class="mb-0 text-muted">Practical, kitchen-tested tips to keep buffet and plated food
+                                    tasting its best during events.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.3s">
+                    <div class="blog-item">
+                        <div class="overflow-hidden rounded">
+                            <img src="img/blog-2.jpg" class="img-fluid w-100" alt="Pakistani wedding menus">
+                        </div>
+                        <div class="blog-content mx-4 d-flex rounded bg-light">
+                            <div class="text-dark bg-primary rounded-start">
+                                <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
+                                    <p class="fw-bold mb-0">03</p>
+                                    <p class="fw-bold mb-0">Sep</p>
+                                </div>
+                            </div>
+                            <div class="my-auto h-100 p-3 text-start">
+                                <a href="blog.html#post2" class="h5 lh-base d-block">Top 10 Pakistani Wedding Menus for
+                                    2025</a>
+                                <p class="mb-0 text-muted">Curated menu ideas that blend classic flavours with modern
+                                    presentation—perfect for any wedding.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.5s">
+                    <div class="blog-item">
+                        <div class="overflow-hidden rounded">
+                            <img src="img/blog-3.jpg" class="img-fluid w-100" alt="Choose catering package">
+                        </div>
+                        <div class="blog-content mx-4 d-flex rounded bg-light">
+                            <div class="text-dark bg-primary rounded-start">
+                                <div class="h-100 p-3 d-flex flex-column justify-content-center text-center">
+                                    <p class="fw-bold mb-0">22</p>
+                                    <p class="fw-bold mb-0">Aug</p>
+                                </div>
+                            </div>
+                            <div class="my-auto h-100 p-3 text-start">
+                                <a href="blog.html#post3" class="h5 lh-base d-block">How to Choose the Right Catering
+                                    Package</a>
+                                <p class="mb-0 text-muted">A quick guide to match your event size, service style and
+                                    budget when booking a caterer.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog End -->
+
+    <!-- Blog Posts (full) -->
+    <div class="container py-6">
+        <div class="container">
+            <div id="post1" class="mb-5">
+                <h2>5 Tips to Keep Food Fresh at Large Events</h2>
+                <p class="text-muted mb-1"><small>10 Oct 2025 • By Chef Altaf • 4 min read</small></p>
+                <p>Keeping food fresh across long events is a challenge; with the right planning you can preserve
+                    flavor,
+                    texture and appearance. Here are five practical tips our chefs use every day:</p>
+                <ul>
+                    <li>Stagger service and use warming stations to avoid buffet food sitting out too long.</li>
+                    <li>Hold sauces and dressings separately and add them just before serving.</li>
+                    <li>Use insulated chafing and proper lids to retain heat without drying food.</li>
+                    <li>Keep cold items on ice and replenish frequently to maintain safe temperatures.</li>
+                    <li>Train staff to rotate and monitor dishes with a simple checklist.</li>
+                </ul>
+                <p>Follow these and your guests will always get the freshest experience from your catering.</p>
+                <div class="d-flex align-items-center mt-3">
+                    <img src="img/team-1.jpg" alt="Chef Altaf" class="rounded-circle"
+                        style="width:64px; height:64px; object-fit:cover;">
+                    <div class="ps-3">
+                        <strong>Chef Altaf</strong>
+                        <p class="mb-0 text-muted small">Head Chef at Altaf Catering — 15+ years in event catering and
+                            menu design.</p>
+                    </div>
+                </div>
+                <a href="#" class="btn btn-outline-primary mt-3">Back to top</a>
+            </div>
+
+            <div id="post2" class="mb-5">
+                <h2>Top 10 Pakistani Wedding Menus for 2025</h2>
+                <p class="text-muted mb-1"><small>03 Sep 2025 • By Sara Malik • 6 min read</small></p>
+                <p>Weddings are about tradition and taste. In 2025 we see a mix of classic dishes and modern plating.
+                    Popular choices include:</p>
+                <ol>
+                    <li>Hyderabadi Biryani with raita and salad</li>
+                    <li>Mutton Karahi with tandoori naan</li>
+                    <li>Chicken Reshmi Kebab starters</li>
+                    <li>Live BBQ station with mixed grills</li>
+                    <li>Assorted desserts: gulab jamun, custard and seasonal fruit</li>
+                </ol>
+                <p>We can customise any of these menus to fit guest counts and dietary needs.</p>
+                <div class="d-flex align-items-center mt-3">
+                    <img src="img/team-3.jpg" alt="Sara Malik" class="rounded-circle"
+                        style="width:64px; height:64px; object-fit:cover;">
+                    <div class="ps-3">
+                        <strong>Sara Malik</strong>
+                        <p class="mb-0 text-muted small">Menu curator & nutrition specialist — focuses on balanced,
+                            crowd-pleasing menus.</p>
+                    </div>
+                </div>
+                <a href="#" class="btn btn-outline-primary mt-3">Back to top</a>
+            </div>
+
+            <div id="post3" class="mb-5">
+                <h2>How to Choose the Right Catering Package</h2>
+                <p class="text-muted mb-1"><small>22 Aug 2025 • By Omar Khan • 3 min read</small></p>
+                <p>Choosing a catering package depends on event type, guest count, and service level. Before booking,
+                    decide whether you need plated service, buffet or finger food. Consider the following:</p>
+                <ul>
+                    <li>Budget per person vs total headcount.</li>
+                    <li>Service style — plated gives more control; buffet is cost effective for large groups.</li>
+                    <li>Dietary restrictions and how many options you need.</li>
+                </ul>
+                <p>Contact us with your date and guest estimate and we’ll recommend the best package.</p>
+                <div class="d-flex align-items-center mt-3">
+                    <img src="img/team-4.jpg" alt="Omar Khan" class="rounded-circle"
+                        style="width:64px; height:64px; object-fit:cover;">
+                    <div class="ps-3">
+                        <strong>Omar Khan</strong>
+                        <p class="mb-0 text-muted small">Events Manager — specialises in logistics and guest experience
+                            for large functions.</p>
+                    </div>
+                </div>
+                <a href="#" class="btn btn-outline-primary mt-3">Back to top</a>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Footer Start -->
+    <div class="container-fluid footer py-6 my-6 mb-0 bg-light wow bounceInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-item">
+                        <!-- Footer logo (small) -->
+                        <div class="d-flex align-items-center">
+                            <img src="img/logo.png" alt="Altaf Catering" style="height:40px; width:auto;" class="me-2">
+                            <span class="h6 mb-0 fw-bold text-primary d-none d-sm-inline">Altaf<span
+                                    class="text-dark">Catering</span></span>
+                        </div>
+                        <p class="lh-lg mb-4">Altaf Catering — fresh seasonal menus and professional event services
+                            across Pakistan.</p>
+                        <div class="footer-icon d-flex">
+                            <a class="btn btn-primary btn-sm-square me-2 rounded-circle"
+                                href="https://web.facebook.com/AltafCateringCompany?mibextid=ZbWKwL&_rdc=1&_rdr#"
+                                target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-primary btn-sm-square me-2 rounded-circle"
+                                href="https://www.tiktok.com/@altafcateringcompany?_t=8scdCc9SFQ9&_r=1"
+                                target="_blank"><i class="fab fa-tiktok"></i></a>
+                            <a href="https://www.instagram.com/altafcateringcompany/" target="_blank"
+                                class="btn btn-primary btn-sm-square me-2 rounded-circle"><i
+                                    class="fab fa-instagram"></i></a>
+                            <a href="https://www.youtube.com/@Altafcateringcompanyy" target="_blank"
+                                class="btn btn-primary btn-sm-square rounded-circle"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-item">
+                        <h4 class="mb-4">Special Facilities</h4>
+                        <div class="d-flex flex-column align-items-start">
+                            <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Cheese
+                                Burger</a>
+                            <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Sandwich</a>
+                            <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Panner
+                                Burger</a>
+                            <a class="text-body mb-3" href=""><i class="fa fa-check text-primary me-2"></i>Special
+                                Sweets</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-item">
+                        <h4 class="mb-4">Contact Us</h4>
+                        <div class="d-flex flex-column align-items-start">
+                            <p><i class="fa fa-map-marker-alt text-primary me-2"></i><span itemprop="address" itemscope
+                                    itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">MM Farm
+                                        House Sharif Medical Jati Umrah Road</span>, <span
+                                        itemprop="addressLocality">Karachi</span>, <span
+                                        itemprop="addressCountry">Pakistan</span></span></p>
+                            <p><i class="fa fa-phone-alt text-primary me-2"></i><a href="tel:+923039907296"
+                                    itemprop="telephone">+923039907296</a></p>
+                            <p><i class="fas fa-envelope text-primary me-2"></i><a href="mailto:altafcatering@gmail.com"
+                                    itemprop="email">altafcatering@gmail.com</a></p>
+                            <p><i class="fa fa-clock text-primary me-2"></i><span itemprop="openingHours">24/7 Hours
+                                    Service</span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-item">
+                        <h4 class="mb-4">Social Gallery</h4>
+                        <div class="row g-2">
+                            <div class="col-4">
+                                <img src="img/menu-01.jpg" class="img-fluid rounded-circle border border-primary p-2"
+                                    alt="">
+                            </div>
+                            <div class="col-4">
+                                <img src="img/menu-02.jpg" class="img-fluid rounded-circle border border-primary p-2"
+                                    alt="">
+                            </div>
+                            <div class="col-4">
+                                <img src="img/menu-03.jpg" class="img-fluid rounded-circle border border-primary p-2"
+                                    alt="">
+                            </div>
+                            <div class="col-4">
+                                <img src="img/menu-04.jpg" class="img-fluid rounded-circle border border-primary p-2"
+                                    alt="">
+                            </div>
+                            <div class="col-4">
+                                <img src="img/menu-05.jpg" class="img-fluid rounded-circle border border-primary p-2"
+                                    alt="">
+                            </div>
+                            <div class="col-4">
+                                <img src="img/menu-06.jpg" class="img-fluid rounded-circle border border-primary p-2"
+                                    alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Copyright Start -->
+    <div class="container-fluid copyright bg-dark py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                    <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Altaf Catering
+                            Company</a>, All right reserved.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Copyright End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-md-square btn-primary rounded-circle back-to-top"><i class="fa fa-arrow-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Site search (client-side) -->
+    <script src="js/search.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
