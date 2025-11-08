@@ -244,5 +244,36 @@
         });
     })();
 
+    // Newsletter form handler (client-side only)
+    (function () {
+        var $form = $('#newsletterForm');
+        if (!$form.length) return;
+        $form.on('submit', function (e) {
+            e.preventDefault();
+            var $email = $('#newsletterEmail');
+            var email = ($email.val() || '').trim();
+            // Simple client-side validation
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\\.,;:\s@\"]+\.)+[^<>()[\]\\.,;:\s@\"]{2,})$/i;
+            if (!email || !re.test(email)) {
+                // show inline error
+                var $err = $('<div class="mt-2 text-warning small">Please enter a valid email address.</div>');
+                $form.find('.text-warning').remove();
+                $form.append($err);
+                $email.focus();
+                return;
+            }
+
+            // Show a temporary success message (no server submission)
+            $form.find('.text-warning').remove();
+            var $msg = $('<div class="mt-2 text-success small">Thank you — you are subscribed (demo).</div>');
+            $form.append($msg);
+            // Clear input after a short delay
+            setTimeout(function () {
+                $email.val('');
+                $msg.fadeOut(400, function () { $(this).remove(); });
+            }, 2500);
+        });
+    })();
+
 })(jQuery);
 

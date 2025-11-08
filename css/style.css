@@ -12,19 +12,6 @@
     }
 }
 
-@media (max-width: 1200px) {
-    .whatsapp-btn {
-        width: 55px;
-        height: 55px;
-        right: 25px;
-        bottom: 85px;
-    }
-
-    .whatsapp-btn i {
-        font-size: 28px;
-    }
-}
-
 @media (max-width: 992px) {
     .whatsapp-btn {
         width: 50px;
@@ -34,9 +21,58 @@
     }
 
     .whatsapp-btn i {
-        font-size: 26px;
+        font-size: 28px;
     }
 }
+
+/* Privacy / Policy cards */
+.policy-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+    /* horizontal + vertical gap between cards */
+}
+
+.policy-card {
+    border-left: 4px solid var(--bs-primary);
+    background: #fff;
+    padding: 1.25rem;
+    box-shadow: 0 6px 18px rgba(13, 110, 253, 0.06);
+    border-radius: .375rem;
+    margin-bottom: 0.75rem;
+    /* extra vertical space to ensure cards aren't touching */
+}
+
+.policy-card h5 {
+    margin-bottom: .5rem;
+}
+
+@media (max-width: 992px) {
+    .policy-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Terms & Conditions sections */
+.terms-section {
+    background: #fff;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: .375rem;
+    box-shadow: 0 6px 18px rgba(13, 110, 253, 0.06);
+    border-left: 4px solid var(--bs-primary);
+}
+
+.terms-section h4 {
+    color: var(--bs-primary);
+    margin-bottom: 1rem;
+}
+
+.terms-section p {
+    color: #666;
+    line-height: 1.7;
+}
+
 
 @media (max-width: 768px) {
     .whatsapp-btn {
@@ -961,6 +997,17 @@ h6,
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
 }
 
+/* Ensure contact info flex children can shrink on small screens to prevent overflow */
+.contact .contact-form .d-flex i {
+    flex: 0 0 auto;
+    /* icon keeps its size and won't stretch the box */
+}
+
+.contact .contact-form .d-flex>div {
+    min-width: 0;
+    /* allow the text column to shrink and wrap inside the flex container */
+}
+
 /*** Contact End ***/
 
 
@@ -970,3 +1017,69 @@ h6,
 }
 
 /*** Footer End ***/
+
+/* Newsletter styles (homepage) */
+.newsletter {
+    background: transparent;
+}
+
+.newsletter h3,
+.newsletter p {
+    color: #fff;
+}
+
+.newsletter .form-control {
+    max-width: 320px;
+}
+
+.newsletter .btn-dark {
+    background: #0b132b;
+    border: 0;
+}
+
+@media (max-width: 576px) {
+    .newsletter .form-control {
+        max-width: 100%;
+        margin-bottom: .5rem;
+    }
+
+    .newsletter .d-flex {
+        flex-direction: column;
+        align-items: stretch;
+    }
+}
+
+/* Footer newsletter (no background) - placed inside .footer */
+.footer .newsletter-footer {
+    background: transparent;
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.footer .newsletter-footer h5 {
+    margin-bottom: .25rem;
+    font-weight: 600;
+    color: inherit;
+}
+
+.footer .newsletter-footer p {
+    margin-bottom: 0;
+    color: #6c757d;
+    /* subtle muted text inside footer */
+}
+
+.footer .newsletter-footer .form-control {
+    max-width: 360px;
+}
+
+@media (max-width: 576px) {
+    .footer .newsletter-footer .d-flex {
+        flex-direction: column;
+        gap: .5rem;
+    }
+
+    .footer .newsletter-footer .form-control {
+        max-width: 100%;
+    }
+}

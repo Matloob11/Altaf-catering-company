@@ -175,6 +175,8 @@
                                 <a href="team.html" class="dropdown-item">Our Team</a>
                                 <a href="pricing.html" class="dropdown-item">Pricing & FAQS</a>
                                 <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                                <a href="privacy.html" class="dropdown-item">Privacy Policy</a>
+                                <a href="terms.html" class="dropdown-item">Terms of Service</a>
                                 <a href="404.html" class="dropdown-item">404 Page</a>
                             </div>
                         </div>
@@ -1440,6 +1442,49 @@
 
 
     <!-- Team Start -->
+    <!-- Owner Start -->
+    <div class="container-fluid py-6">
+        <div class="container">
+            <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
+                <small
+                    class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Owner</small>
+                <h1 class="display-5 mb-4">Meet Our Owner</h1>
+            </div>
+            <div class="row g-4 align-items-center">
+                <div class="col-lg-4 wow bounceInUp" data-wow-delay="0.1s">
+                    <img src="img/owner.jpg" alt="Altaf - Owner" class="img-fluid rounded shadow"
+                        style="max-height:360px; width:100%; object-fit:cover;">
+                </div>
+                <div class="col-lg-8 wow bounceInUp" data-wow-delay="0.3s">
+                    <h3 class="text-primary">Altaf</h3>
+                    <p class="mb-2"><strong>Owner & Managing Director</strong></p>
+                    <p class="mb-3">Altaf founded Altaf Catering and serves as the Owner & Managing Director. With
+                        over a decade of experience in the catering business, he leads operations, client relations
+                        and strategic direction — ensuring consistent quality and service across every event. He
+                        manages the leadership team and coordinates with chefs, vendors and clients to deliver
+                        flawless experiences.</p>
+                    <p class="mb-3"><i class="fa fa-phone-alt text-primary me-2"></i><a href="tel:+923039907296">+92 303
+                            9907296</a> &nbsp; <i class="fas fa-envelope text-primary me-2"></i><a
+                            href="mailto:altafcatering@gmail.com"> altafcatering@gmail.com</a></p>
+                    <div class="d-flex">
+                        <a class="btn btn-primary btn-md-square me-2 rounded-circle"
+                            href="https://web.facebook.com/AltafCateringCompany?mibextid=ZbWKwL&_rdc=1&_rdr#"
+                            target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-primary btn-md-square me-2 rounded-circle"
+                            href="https://www.tiktok.com/@altafcateringcompany" target="_blank" aria-label="TikTok"><i
+                                class="fab fa-tiktok"></i></a>
+                        <a class="btn btn-primary btn-md-square me-2 rounded-circle"
+                            href="https://www.instagram.com/altafcateringcompany/" target="_blank"
+                            aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-primary btn-md-square rounded-circle"
+                            href="https://www.youtube.com/@Altafcateringcompanyy" target="_blank"
+                            aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Owner End -->
     <div class="container-fluid team py-6">
         <div class="container">
             <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
@@ -2334,21 +2379,51 @@
                 </div>
             </div>
         </div>
+
+        <!-- Newsletter (footer) -->
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="newsletter-footer">
+                    <div class="d-flex justify-content-between align-items-center flex-wrap">
+                        <div>
+                            <h5>Subscribe</h5>
+                            <p class="mb-0">Get updates, offers and event tips — straight to your inbox.</p>
+                        </div>
+                        <div>
+                            <form id="newsletterForm" class="d-flex">
+                                <input id="newsletterEmail" type="email" class="form-control me-2"
+                                    placeholder="Email address" required>
+                                <button type="submit" class="btn btn-primary rounded-pill">Subscribe</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
     <!-- Footer End -->
 
+    <!-- Footer newsletter (moved into footer) - transparent/no background -->
+    <!-- (Newsletter form will be displayed inside each page footer below.) -->
 
     <!-- Copyright Start -->
     <div class="container-fluid copyright bg-dark py-4">
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Altaf Catering
-                            Company</a>, All right reserved.</span>
+            <div class="row align-items-center">
+                <div class="col-md-6 text-center text-md-start mb-2 mb-md-0">
+                    <small class="text-light">&copy; <span id="copyright-year">2025</span> Altaf Catering Company. All
+                        rights reserved.</small>
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <a href="privacy.html" class="text-light me-3" aria-label="Privacy Policy">Privacy Policy</a>
+                    <a href="terms.html" class="text-light me-3" aria-label="Terms and Conditions">Terms</a>
+                    <a href="contact.html" class="text-light" aria-label="Contact">Contact</a>
                 </div>
             </div>
         </div>
     </div>
+    <script>try { document.getElementById('copyright-year').textContent = new Date().getFullYear(); } catch (e) { }</script>
     <!-- Copyright End -->
 
 
