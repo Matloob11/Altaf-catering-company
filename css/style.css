@@ -35,9 +35,9 @@
 
 .policy-card {
     border-left: 4px solid var(--bs-primary);
-    background: #fff;
+    background: var(--card-bg);
     padding: 1.25rem;
-    box-shadow: 0 6px 18px rgba(13, 110, 253, 0.06);
+    box-shadow: 0 6px 18px var(--shadow-color);
     border-radius: .375rem;
     margin-bottom: 0.75rem;
     /* extra vertical space to ensure cards aren't touching */
@@ -55,11 +55,11 @@
 
 /* Terms & Conditions sections */
 .terms-section {
-    background: #fff;
+    background: var(--card-bg);
     padding: 2rem;
     margin-bottom: 1.5rem;
     border-radius: .375rem;
-    box-shadow: 0 6px 18px rgba(13, 110, 253, 0.06);
+    box-shadow: 0 6px 18px var(--shadow-color);
     border-left: 4px solid var(--bs-primary);
 }
 
@@ -69,7 +69,7 @@
 }
 
 .terms-section p {
-    color: #666;
+    color: var(--text-secondary);
     line-height: 1.7;
 }
 
@@ -153,6 +153,7 @@ html {
     justify-content: center;
     z-index: 1000;
     transition: all 0.3s ease;
+    right: 23px;
     border-radius: 50%;
 }
 
@@ -441,8 +442,8 @@ h6,
 
 /*** Navbar Start ***/
 .nav-bar {
-    background: var(--bs-light);
-    border-bottom: 1px solid rgba(0, 0, 0, .05);
+    background: var(--navbar-bg);
+    border-bottom: 1px solid var(--border-color);
 }
 
 .navbar .navbar-nav .nav-link {
