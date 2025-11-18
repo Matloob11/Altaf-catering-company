@@ -151,10 +151,6 @@
 </div>
 
 <script>
-// OpenRouter API Configuration
-const AI_API_KEY = "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";
-const AI_MODEL = "openai/gpt-3.5-turbo";
-
 // Toggle chat window
 function toggleChat() {
     const chatWindow = document.getElementById('aiChatWindow');
@@ -167,50 +163,70 @@ function sendQuickMessage(message) {
     document.getElementById('aiChatForm').dispatchEvent(new Event('submit'));
 }
 
-// Send AI message
+// Send AI message - Updated to use secure server-side API
 async function sendAIMessage(event) {
     event.preventDefault();
     
     const input = document.getElementById('aiUserInput');
+    const submitBtn = event.target.querySelector('button[type="submit"]');
     const message = input.value.trim();
     if (!message) return;
+    
+    // Disable input and button during processing
+    input.disabled = true;
+    submitBtn.disabled = true;
+    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
     
     addAIMessage(message, 'user');
     input.value = '';
     showTyping();
     
     try {
-        const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
-            method: "POST",
+        // Use dedicated API endpoint for widget
+        const response = await fetch('api/ai-chat.php', {
+            method: 'POST',
             headers: {
-                "Authorization": `Bearer ${AI_API_KEY}`,
-                "Content-Type": "application/json"
+                'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                model: AI_MODEL,
-                messages: [
-                    { 
-                        role: "system", 
-                        content: `You are a helpful AI assistant for Altaf Catering Company in Pakistan. 
-                        Help users with: menu items, catering packages, booking process, contact information.
-                        Phone: +92 303 9907296, Email: altafcatering@gmail.com, Address: MM Farm House Sharif Medical Jati Umrah Road, Karachi
-                        Be friendly, concise, and helpful. Use emojis occasionally. Keep responses under 100 words.`
-                    },
-                    { role: "user", content: message }
-                ]
+                message: message
             })
         });
         
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+        
         const data = await response.json();
-        const botReply = data.choices?.[0]?.message?.content || "Sorry, I couldn't process that. Please call us at +92 303 9907296";
         
         hideTyping();
-        addAIMessage(botReply, 'bot');
+        
+        if (data.success) {
+            addAIMessage(data.message, 'bot');
+        } else {
+            addAIMessage("❌ " + (data.error || "Sorry, I couldn't process that. Please call us at +92 303 9907296"), 'bot');
+        }
         
     } catch (error) {
         console.error('AI Error:', error);
         hideTyping();
-        addAIMessage("❌ Connection error. Please try again or call +92 303 9907296", 'bot');
+        
+        let errorMessage = "❌ ";
+        if (error.message.includes('HTTP 404')) {
+            errorMessage += "Service temporarily unavailable. Please call +92 303 9907296";
+        } else if (error.message.includes('HTTP 500')) {
+            errorMessage += "Server error. Please try again or call +92 303 9907296";
+        } else {
+            errorMessage += "Connection error. Please try again or call +92 303 9907296";
+        }
+        
+        addAIMessage(errorMessage, 'bot');
+    } finally {
+        // Re-enable input and button
+        input.disabled = false;
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = '<i class="fas fa-paper-plane"></i>';
+        input.focus();
     }
 }
 

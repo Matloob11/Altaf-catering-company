@@ -3,8 +3,11 @@
  * Configuration File
  * Altaf Catering - Central Configuration
  * 
- * IMPORTANT: Update these values for production!
+ * IMPORTANT: Sensitive values are now loaded from .env file for security!
  */
+
+// Load environment variables securely
+require_once __DIR__ . '/env-loader.php';
 
 // Site Configuration
 define('SITE_NAME', 'Altaf Catering');
@@ -27,7 +30,7 @@ define('TIKTOK_URL', 'https://www.tiktok.com/@altafcateringcompany');
 // Email Configuration - Resend.com API
 // Get your API key from: https://resend.com/api-keys
 define('EMAIL_SERVICE', 'resend'); // 'resend', 'smtp', or 'php_mail'
-define('RESEND_API_KEY', 're_U3TCNs8d_NRC7Dgup5sf1LSAzCXh9MgWL'); // Your Resend API Key
+define('RESEND_API_KEY', EnvLoader::get('RESEND_API_KEY', 're_U3TCNs8d_NRC7Dgup5sf1LSAzCXh9MgWL')); // Loaded from .env
 define('FROM_EMAIL', 'onboarding@resend.dev'); // Use your verified domain or resend.dev for testing
 define('FROM_NAME', 'Altaf Catering');
 define('RESEND_TEST_EMAIL', 'matloobulhassnain11@gmail.com'); // Your registered Resend email for testing
@@ -46,11 +49,11 @@ define('WHATSAPP_BUSINESS_NUMBER', '+923008859633');
 define('WHATSAPP_MESSAGE_TEMPLATE', 'Hello! I am interested in your catering services.');
 
 // Google Analytics
-define('GOOGLE_ANALYTICS_ID', 'G-XXXXXXXXXX'); // UPDATE THIS
+define('GOOGLE_ANALYTICS_ID', EnvLoader::get('GOOGLE_ANALYTICS_ID', 'G-XXXXXXXXXX')); // Loaded from .env
 
-// OpenRouter AI (for AI Chat)
+// OpenRouter AI (for AI Chat) - SECURE API KEY LOADING
 // Get your API key from: https://openrouter.ai/keys
-define('OPENROUTER_API_KEY', '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');
+define('OPENROUTER_API_KEY', EnvLoader::get('OPENROUTER_API_KEY', ''));
 
 // Security Settings
 define('SESSION_TIMEOUT', 7200); // 2 hours in seconds
@@ -70,7 +73,7 @@ define('DATA_PATH', __DIR__ . '/admin/data/');
 date_default_timezone_set('Asia/Karachi');
 
 // Development Mode (Set to false in production)
-define('DEV_MODE', true);
+define('DEV_MODE', EnvLoader::get('DEV_MODE', 'true') === 'true');
 
 // Error Reporting (Disable in production)
 if (DEV_MODE) {

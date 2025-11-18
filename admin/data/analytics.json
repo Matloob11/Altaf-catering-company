@@ -1127,13 +1127,93 @@
             "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
             "timestamp": 1763448906,
             "datetime": "2025-11-18 07:55:06"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763451060,
+            "datetime": "2025-11-18 08:31:00"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763451842,
+            "datetime": "2025-11-18 08:44:02"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452051,
+            "datetime": "2025-11-18 08:47:31"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452068,
+            "datetime": "2025-11-18 08:47:48"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452305,
+            "datetime": "2025-11-18 08:51:45"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452492,
+            "datetime": "2025-11-18 08:54:52"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452542,
+            "datetime": "2025-11-18 08:55:42"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452549,
+            "datetime": "2025-11-18 08:55:49"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763452795,
+            "datetime": "2025-11-18 08:59:55"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763453194,
+            "datetime": "2025-11-18 09:06:34"
         }
     ],
     "visitors": {
         "8d7e15dda53d61fa899da4a2fee1371e": {
             "first_visit": "2025-11-16 15:40:17",
-            "last_visit": "2025-11-18 07:55:06",
-            "visit_count": 135,
+            "last_visit": "2025-11-18 09:06:34",
+            "visit_count": 145,
             "pages_viewed": [
                 "homepage",
                 "about",
@@ -1204,10 +1284,10 @@
         },
         "2025-11-18": {
             "date": "2025-11-18",
-            "page_views": 31,
+            "page_views": 41,
             "unique_visitors": 0,
             "pages": {
-                "homepage": 23,
+                "homepage": 33,
                 "about": 3,
                 "services": 4,
                 "menu": 1
