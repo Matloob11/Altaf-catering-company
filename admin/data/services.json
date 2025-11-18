@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "Wedding Services",
+        "icon": "fas fa-ring",
+        "category": "Wedding",
+        "description": "We provide full wedding catering services including elegant food displays, customized menus, and professional staff to make your big day truly memorable.",
+        "content": "Our wedding packages are designed to make your celebration effortless. We offer menu consultation, tasting sessions, bespoke menu design to reflect regional flavours or modern plating, table styling and a trained service team. Capacity planning, dietary options and on-site coordination are included for smooth execution.\n\nFrom intimate gatherings to grand celebrations, we handle every detail with precision and care. Our experienced team ensures that your wedding day is stress-free and memorable for you and your guests.",
+        "features": [
+            "Menu tasting & customisation",
+            "Complete on-site service & coordination",
+            "Equipment, chafing and setup included",
+            "Customized wedding menus",
+            "Professional serving staff",
+            "Elegant food displays"
+        ],
+        "image": "img/menu-01.jpg",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "title": "Corporate Catering",
+        "icon": "fas fa-briefcase",
+        "category": "Corporate",
+        "description": "Our corporate catering service is ideal for meetings, seminars, and office events. We offer professional menus designed to impress clients.",
+        "content": "We provide timely, professional corporate catering with menu flexibility to suit breakfast meetings, working lunches, buffets and plated dinners. Dietary labelling, on-time delivery and neat presentation ensure your attendees are impressed.\n\nOur corporate packages are designed for efficiency and professionalism, making your business events seamless and successful.",
+        "features": [
+            "Breakfast, lunch and dinner menus",
+            "Dietary labels and portion control",
+            "Discrete, punctual service",
+            "Business lunch packages",
+            "Conference catering",
+            "Office party services"
+        ],
+        "image": "img/menu-02.jpg",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "title": "Cocktail Reception",
+        "icon": "fas fa-glass-cheers",
+        "category": "Party",
+        "description": "Perfect for social gatherings and networking events. We provide elegant finger foods and beverages for your cocktail parties.",
+        "content": "Ideal for social mixers and networking events, our cocktail packages include a selection of hot and cold canapés, live chef stations and beverage pairings. We tailor the flow so guests can mingle while enjoying premium bites.\n\nOur professional staff ensures smooth service throughout your event, allowing you to focus on your guests.",
+        "features": [
+            "Hot & cold canapé selection",
+            "Live chef station options",
+            "Flexible service timings",
+            "Elegant finger foods",
+            "Beverage service",
+            "Professional bartenders"
+        ],
+        "image": "img/menu-03.jpg",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "title": "Bento Catering",
+        "icon": "fas fa-box",
+        "category": "Corporate",
+        "description": "Perfect for corporate lunches or on-the-go events. Neatly packed meals that are delicious, balanced, and convenient.",
+        "content": "Our bento boxes are portion-controlled, fresh and great for teams on-the-go. Choose from healthy, balanced menus with clear labelling for allergies and preferences.\n\nIdeal for conferences, training sessions, or outdoor events where convenience meets quality.",
+        "features": [
+            "Balanced nutrition-focused menus",
+            "Clear allergy labelling",
+            "Ideal for conferences or delivery",
+            "Individual meal boxes",
+            "Fresh ingredients",
+            "Convenient packaging"
+        ],
+        "image": "img/menu-04.jpg",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "title": "Pub Party",
+        "icon": "fas fa-beer",
+        "category": "Party",
+        "description": "Make your pub night extra special with our catering setup. Finger foods, drinks, and party platters for fun celebrations.",
+        "content": "From platter sharing to themed snack stations, we bring energy and flavour to casual gatherings. Perfect for birthdays, launches and weekend events.\n\nOur pub party packages are designed to create a fun, relaxed atmosphere for your guests.",
+        "features": [
+            "Sharing platters & snack stations",
+            "Drink-friendly menus",
+            "Fun, themed presentation",
+            "Party platters",
+            "Finger foods",
+            "Beverage options"
+        ],
+        "image": "img/menu-05.jpg",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "title": "Home Delivery",
+        "icon": "fas fa-truck",
+        "category": "Delivery",
+        "description": "Fast and reliable home delivery for family meals and small gatherings. Prepared fresh and packed securely to retain heat and flavour.",
+        "content": "Our home delivery service brings restaurant-quality meals to your doorstep. Whether it's a family dinner or a small gathering, we ensure your food arrives hot, fresh, and ready to serve.\n\nWith secure packaging and timely delivery, you can enjoy delicious catering without leaving home.",
+        "features": [
+            "Secure, hot delivery",
+            "Packaging for easy serving",
+            "Order minimums and delivery windows available",
+            "Fresh preparation",
+            "Timely service",
+            "Quality guaranteed"
+        ],
+        "image": "img/menu-06.jpg",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "title": "Sit-down Catering",
+        "icon": "fas fa-chair",
+        "category": "Wedding",
+        "description": "Formal sit-down service with plated courses and professional wait staff — ideal for gala dinners and formal events.",
+        "content": "Our sit-down catering service provides an elegant dining experience with multiple course menus and professional table service. Perfect for gala dinners, award ceremonies, and formal events where presentation and timing are key.\n\nOur experienced wait staff ensures impeccable service throughout your event.",
+        "features": [
+            "Multiple course menus",
+            "Professional table service",
+            "Event flow and timing management",
+            "Elegant presentation",
+            "Experienced staff",
+            "Customizable menus"
+        ],
+        "image": "img/menu-07.jpg",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "title": "Buffet Catering",
+        "icon": "fas fa-utensils",
+        "category": "Buffet",
+        "description": "Large-scale, beautifully presented buffet spreads. Scalable and cost-effective for big events.",
+        "content": "Our buffet service is scalable and cost-effective for big events. We handle menu variety, replenishment and presentation to keep food fresh and appealing throughout your event.\n\nFrom corporate functions to wedding receptions, our buffet catering provides variety and quality for all your guests.",
+        "features": [
+            "Scalable menu options",
+            "Live replenishment & display",
+            "Custom stations and dessert bars",
+            "Wide variety of dishes",
+            "Professional setup",
+            "Continuous service"
+        ],
+        "image": "img/menu-08.jpg",
+        "status": "active"
+    }
+]

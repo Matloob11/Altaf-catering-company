@@ -1,0 +1,9 @@
+{
+    "smtp_host": "",
+    "smtp_port": "587",
+    "smtp_username": "",
+    "smtp_password": "",
+    "from_email": "",
+    "from_name": "Altaf Catering",
+    "notifications_enabled": true
+}

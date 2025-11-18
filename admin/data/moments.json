@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Wedding Arrangements",
+        "description": "Elegant table setups for weddings",
+        "image": "img/gallery-1.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 2,
+        "title": "Corporate Events",
+        "description": "Professional catering for meetings",
+        "image": "img/gallery-2.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 3,
+        "title": "Special Dishes",
+        "description": "Signature recipes and presentations",
+        "image": "img/gallery-3.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 4,
+        "title": "Buffet Setups",
+        "description": "Elegant buffet arrangements",
+        "image": "img/gallery-4.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 5,
+        "title": "Dessert Corner",
+        "description": "Sweet delights and treats",
+        "image": "img/gallery-5.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 6,
+        "title": "Live Stations",
+        "description": "Interactive cooking experiences",
+        "image": "img/gallery-6.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    }
+]

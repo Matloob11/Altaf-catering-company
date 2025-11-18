@@ -1,0 +1,163 @@
+[
+    {
+        "to": "matloobulhassnain786786@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "failed",
+        "date": "2025-11-17 17:50:35",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain786786@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "saved_to_file",
+        "date": "2025-11-17 17:56:41",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain786786@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "saved_to_file",
+        "date": "2025-11-17 18:05:04",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain786786@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "saved_to_file",
+        "date": "2025-11-17 18:05:26",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain786786@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "saved_to_file",
+        "date": "2025-11-17 18:12:10",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain786786@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:00:00",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain11@gmail.com",
+        "subject": "\u2705 Test Email - Altaf Catering",
+        "status": "sent_via_resend",
+        "date": "2025-11-17 19:05:57",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:47:52",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: cURL Error: Recv failure: Connection was reset",
+        "date": "2025-11-17 19:47:58",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:03",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:05",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:08",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:12",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:15",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:19",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:24",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:29",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:33",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:38",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83c\udf89 New Event Booking - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 19:48:44",
+        "ip": "::1"
+    },
+    {
+        "to": "test@example.com",
+        "subject": "\ud83c\udf8a Booking Confirmed - Altaf Catering",
+        "status": "failed: cURL Error: Recv failure: Connection was reset",
+        "date": "2025-11-17 19:48:53",
+        "ip": "::1"
+    },
+    {
+        "to": "altafcatering@gmail.com",
+        "subject": "\ud83d\udd14 New Contact Form Submission - Altaf Catering",
+        "status": "failed: HTTP Error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (matloobulhassnain11@gmail.com). To send emails to other recipients, please verify a domain at resend.com\/domains, and change the `from` address to an email using this domain.\"}",
+        "date": "2025-11-17 21:06:11",
+        "ip": "::1"
+    },
+    {
+        "to": "matloobulhassnain11@gmail.com",
+        "subject": "\u2705 Thank You for Contacting Altaf Catering",
+        "status": "sent_via_resend",
+        "date": "2025-11-17 21:06:15",
+        "ip": "::1"
+    }
+]

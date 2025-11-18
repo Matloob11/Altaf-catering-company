@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Head Chef",
+        "department": "Kitchen",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "We're looking for an experienced Head Chef to lead our kitchen team. Must have 5+ years experience in catering or restaurant management. Responsible for menu planning, team management, and maintaining high food quality standards.",
+        "requirements": "Leadership, Menu Planning, Team Management, Food Safety, Quality Control",
+        "salary": "80000-120000",
+        "status": "active",
+        "posted_date": "2025-01-10"
+    },
+    {
+        "id": 2,
+        "title": "Sous Chef",
+        "department": "Kitchen",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "Join our team as Sous Chef. Support the Head Chef and manage daily kitchen operations. 3+ years experience required. Must be skilled in Pakistani and Continental cuisine.",
+        "requirements": "Cooking, Food Prep, Quality Control, Team Coordination, Time Management",
+        "salary": "50000-70000",
+        "status": "active",
+        "posted_date": "2025-01-10"
+    },
+    {
+        "id": 3,
+        "title": "Event Manager",
+        "department": "Operations",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "Manage catering events from planning to execution. Coordinate with clients and ensure smooth operations. 2+ years experience in event management or hospitality required.",
+        "requirements": "Event Planning, Client Relations, Coordination, Problem Solving, Communication",
+        "salary": "60000-90000",
+        "status": "active",
+        "posted_date": "2025-01-09"
+    },
+    {
+        "id": 4,
+        "title": "Kitchen Helper",
+        "department": "Kitchen",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "Entry-level position for kitchen support. Help with food preparation, cleaning, and basic cooking tasks. No experience required, training will be provided.",
+        "requirements": "Food Prep, Cleaning, Team Work, Physical Stamina, Willingness to Learn",
+        "salary": "25000-35000",
+        "status": "active",
+        "posted_date": "2025-01-08"
+    },
+    {
+        "id": 5,
+        "title": "Waiter\/Server",
+        "department": "Service",
+        "location": "Karachi, Pakistan",
+        "type": "Part-time",
+        "description": "Serve food and beverages at events. Provide excellent customer service. Flexible hours, perfect for students. Weekend availability required.",
+        "requirements": "Customer Service, Communication, Presentation, Multitasking, Friendly Attitude",
+        "salary": "15000-25000",
+        "status": "active",
+        "posted_date": "2025-01-07"
+    },
+    {
+        "id": 6,
+        "title": "Delivery Driver",
+        "department": "Logistics",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "Deliver catering orders to clients. Must have valid driving license and own vehicle. Punctuality is essential. Knowledge of Karachi routes preferred.",
+        "requirements": "Driving License, Own Vehicle, Time Management, Navigation, Reliability",
+        "salary": "30000-45000",
+        "status": "active",
+        "posted_date": "2025-01-06"
+    },
+    {
+        "id": 7,
+        "title": "Marketing Executive",
+        "department": "Marketing",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "Promote our catering services through digital and traditional marketing channels. Manage social media, create content, and generate leads. 1-2 years experience in marketing preferred.",
+        "requirements": "Social Media, Content Creation, Lead Generation, Communication, Creativity",
+        "salary": "40000-60000",
+        "status": "active",
+        "posted_date": "2025-01-05"
+    },
+    {
+        "id": 8,
+        "title": "Pastry Chef",
+        "department": "Kitchen",
+        "location": "Karachi, Pakistan",
+        "type": "Full-time",
+        "description": "Specialize in creating desserts, pastries, and baked goods for events. Must have expertise in both traditional and modern dessert preparation. 2+ years experience required.",
+        "requirements": "Baking, Pastry Making, Creativity, Attention to Detail, Recipe Development",
+        "salary": "45000-65000",
+        "status": "inactive",
+        "posted_date": "2024-12-20"
+    }
+]

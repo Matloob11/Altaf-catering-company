@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Wedding Event",
+        "category": "wedding",
+        "image": "img/event-1.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 2,
+        "title": "Corporate Event",
+        "category": "corporate",
+        "image": "img/event-2.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 3,
+        "title": "Wedding Ceremony",
+        "category": "wedding",
+        "image": "img/event-3.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 4,
+        "title": "Buffet Setup",
+        "category": "buffet",
+        "image": "img/event-4.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 5,
+        "title": "Cocktail Party",
+        "category": "cocktail",
+        "image": "img/event-5.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 6,
+        "title": "Wedding Reception",
+        "category": "wedding",
+        "image": "img/event-6.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 7,
+        "title": "Buffet Catering",
+        "category": "buffet",
+        "image": "img/event-7.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    },
+    {
+        "id": 8,
+        "title": "Corporate Dinner",
+        "category": "corporate",
+        "image": "img/event-8.jpg",
+        "status": "published",
+        "created_date": "2024-11-17"
+    }
+]

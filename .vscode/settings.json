@@ -1,0 +1,15 @@
+{
+    "allowUnsafeWorkspace": true,
+    "allowCommandExecution": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "php": "php"
+    },
+    "terminal.integrated.allowWorkspaceShellConfiguration": true,
+    "security.allowWorkspaceConfiguration": true,
+    "allowShellCommands": true,
+    "trustedCommands": [
+        "*"
+    ]
+}

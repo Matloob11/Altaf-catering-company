@@ -1,0 +1,105 @@
+/* ========================================
+   CRITICAL FIX: Prevent Automatic Hover States
+   ======================================== */
+
+/* Fix WhatsApp Quick Menu - Hidden by default */
+.whatsapp-quick-menu {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
+
+.whatsapp-container:hover .whatsapp-quick-menu,
+.whatsapp-container.active .whatsapp-quick-menu {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+}
+
+/* Fix Bootstrap Dropdown - Only show on click/hover */
+.dropdown-menu {
+    display: none !important;
+}
+
+.dropdown-menu.show {
+    display: block !important;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block !important;
+}
+
+/* Fix Gallery Overlay - Hidden by default */
+.gallery-overlay-modern {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+.gallery-card:hover .gallery-overlay-modern {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Fix Event Overlay - Hidden by default */
+.event-overlay {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+.event-img:hover .event-overlay {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Fix Gallery Overlay (general) - Hidden by default */
+.gallery-overlay {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+.gallery-item:hover .gallery-overlay {
+    display: flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Prevent any element from showing hover state automatically */
+*:not(:hover)>.whatsapp-quick-menu {
+    display: none !important;
+}
+
+*:not(:hover)>.dropdown-menu:not(.show) {
+    display: none !important;
+}
+
+*:not(:hover)>.gallery-overlay-modern {
+    display: none !important;
+}
+
+*:not(:hover)>.event-overlay {
+    display: none !important;
+}
+
+*:not(:hover)>.gallery-overlay {
+    display: none !important;
+}
+
+/* Mobile Touch Devices - Click to toggle */
+@media (hover: none) and (pointer: coarse) {
+    .whatsapp-quick-menu {
+        display: none !important;
+    }
+
+    .whatsapp-container.active .whatsapp-quick-menu {
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+    }
+}

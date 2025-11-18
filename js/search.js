@@ -4,8 +4,9 @@
 (function () {
     // List of pages to search (relative URLs). Add or remove pages as the site evolves.
     const pages = [
-        'index.html', 'about.html', 'service.html', 'event.html', 'menu.html', 'book.html',
-        'contact.html', 'blog.html', 'team.html', 'testimonial.html', 'pricing.html', '404.html'
+        'index.php', 'about.php', 'service.php', 'event.php', 'menu.php', 'book.php',
+        'contact.php', 'blog.php', 'team.php', 'testimonial.php', 'pricing.php', 'gallery.php',
+        'careers.php', 'privacy.php', 'terms.php'
     ];
 
     const form = document.getElementById('siteSearchForm');

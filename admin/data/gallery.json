@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "title": "Grand Wedding Ceremony",
+        "description": "Elegant wedding setup with traditional decor and premium catering services",
+        "image": "img\/event-1.jpg",
+        "category": "wedding",
+        "status": "published",
+        "date": "2024-11-16"
+    },
+    {
+        "id": 2,
+        "title": "Beautiful Wedding Reception",
+        "description": "Stunning wedding reception with 500+ guests and exquisite food presentation",
+        "image": "img\/event-2.jpg",
+        "category": "wedding",
+        "status": "published",
+        "date": "2024-11-15"
+    },
+    {
+        "id": 3,
+        "title": "Corporate Annual Dinner",
+        "description": "Professional corporate event with international cuisine and formal setup",
+        "image": "img\/event-3.jpg",
+        "category": "corporate",
+        "status": "published",
+        "date": "2024-11-14"
+    },
+    {
+        "id": 4,
+        "title": "Elegant Event Decor",
+        "description": "Beautiful decoration and setup for special occasions",
+        "image": "img\/event-4.jpg",
+        "category": "setup",
+        "status": "published",
+        "date": "2024-11-13"
+    },
+    {
+        "id": 6,
+        "title": "Birthday Celebration",
+        "description": "Memorable birthday party with custom menu and themed decorations",
+        "image": "img\/event-2.jpg",
+        "category": "birthday",
+        "status": "published",
+        "date": "2024-11-11"
+    },
+    {
+        "id": 7,
+        "title": "Business Conference",
+        "description": "Professional conference catering with coffee breaks and lunch service",
+        "image": "img\/event-3.jpg",
+        "category": "conference",
+        "status": "published",
+        "date": "2024-11-10"
+    },
+    {
+        "id": 8,
+        "title": "Paneer Special Dish",
+        "description": "Our signature paneer dish - a customer favorite",
+        "image": "img\/menu-01.jpg",
+        "category": "food",
+        "status": "published",
+        "date": "2024-11-09"
+    },
+    {
+        "id": 9,
+        "title": "Classic Pizza",
+        "description": "Freshly baked pizza with premium toppings",
+        "image": "img\/menu-04.jpg",
+        "category": "food",
+        "status": "published",
+        "date": "2024-11-08"
+    },
+    {
+        "id": 10,
+        "title": "Grilled Chicken",
+        "description": "Perfectly grilled chicken with special marinade",
+        "image": "img\/menu-06.jpg",
+        "category": "food",
+        "status": "published",
+        "date": "2024-11-07"
+    },
+    {
+        "id": 11,
+        "title": "Sweet Desserts",
+        "description": "Delicious dessert selection for your sweet tooth",
+        "image": "img\/menu-08.jpg",
+        "category": "food",
+        "status": "published",
+        "date": "2024-11-06"
+    },
+    {
+        "id": 12,
+        "title": "Anniversary Celebration",
+        "description": "Romantic anniversary dinner setup with candlelight ambiance",
+        "image": "img\/event-1.jpg",
+        "category": "anniversary",
+        "status": "published",
+        "date": "2024-11-05"
+    },
+    {
+        "id": 13,
+        "title": "Product Launch Event",
+        "description": "Corporate product launch with cocktail reception and networking",
+        "image": "img\/event-3.jpg",
+        "category": "product-launch",
+        "status": "published",
+        "date": "2024-11-04"
+    },
+    {
+        "id": 14,
+        "title": "Family Gathering",
+        "description": "Warm family get-together with home-style cooking and comfort food",
+        "image": "img\/event-4.jpg",
+        "category": "family-gathering",
+        "status": "published",
+        "date": "2024-11-03"
+    },
+    {
+        "id": 15,
+        "title": "ecfgv",
+        "description": "4se5dtrftygu ed rftg 6 e5 d7r4f86t g7yh  d5 7erft6 gyhu  edrftgtyuh   edrftgy  rf ty  edrfty iu ",
+        "category": "conference",
+        "image": "img\/gallery\/1763384524_691b1ccca894c.png",
+        "status": "published",
+        "date": "2025-11-17"
+    }
+]

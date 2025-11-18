@@ -1,0 +1,341 @@
+/* ========================================
+   ALTAF CATERING - WEBSITE LOADER
+   Beautiful animated loader with logo
+   ======================================== */
+
+/* ========== LOADER CONTAINER ========== */
+#spinner {
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    z-index: 9999;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: flex !important;
+    pointer-events: auto !important;
+}
+
+#spinner.show {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: flex !important;
+    pointer-events: auto !important;
+}
+
+#spinner:not(.show) {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    display: none !important;
+    pointer-events: none !important;
+}
+
+/* ========== LOADER WITH LOGO ========== */
+.loader-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ========== LOGO ANIMATION ========== */
+.loader-logo {
+    width: 100px;
+    height: auto;
+    filter: drop-shadow(0 4px 20px rgba(254, 126, 0, 0.3));
+    animation: logoFloat 3s ease-in-out infinite;
+}
+
+@keyframes logoFloat {
+
+    0%,
+    100% {
+        transform: translateY(0) scale(1);
+    }
+
+    50% {
+        transform: translateY(-10px) scale(1.05);
+    }
+}
+
+/* ========== SPINNER STYLES ========== */
+.loader-spinner {
+    position: relative;
+    width: 60px;
+    height: 60px;
+}
+
+/* Multiple spinner rings */
+.spinner-ring {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 4px solid transparent;
+    border-top-color: #FE7E00;
+    border-radius: 50%;
+    animation: spin 1.5s linear infinite;
+}
+
+.spinner-ring:nth-child(2) {
+    width: 80%;
+    height: 80%;
+    top: 10%;
+    left: 10%;
+    border-top-color: #0d6efd;
+    animation-duration: 1.2s;
+    animation-direction: reverse;
+}
+
+.spinner-ring:nth-child(3) {
+    width: 60%;
+    height: 60%;
+    top: 20%;
+    left: 20%;
+    border-top-color: #FE7E00;
+    animation-duration: 0.9s;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* ========== LOADING TEXT ========== */
+.loader-text {
+    font-family: 'Playball', cursive;
+    font-size: 1.5rem;
+    color: #FE7E00;
+    font-weight: 600;
+    letter-spacing: 2px;
+    animation: textPulse 2s ease-in-out infinite;
+}
+
+@keyframes textPulse {
+
+    0%,
+    100% {
+        opacity: 0.6;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 1;
+        transform: scale(1.05);
+    }
+}
+
+/* ========== LOADING DOTS ========== */
+.loader-dots {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.loader-dot {
+    width: 8px;
+    height: 8px;
+    background: #FE7E00;
+    border-radius: 50%;
+    animation: dotBounce 1.4s ease-in-out infinite;
+}
+
+.loader-dot:nth-child(1) {
+    animation-delay: -0.32s;
+}
+
+.loader-dot:nth-child(2) {
+    animation-delay: -0.16s;
+}
+
+.loader-dot:nth-child(3) {
+    animation-delay: 0s;
+}
+
+@keyframes dotBounce {
+
+    0%,
+    80%,
+    100% {
+        transform: scale(0);
+        opacity: 0.5;
+    }
+
+    40% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* ========== BRAND NAME ========== */
+.loader-brand {
+    font-family: 'Playball', cursive;
+    font-size: 2rem;
+    color: #FE7E00;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    animation: brandGlow 2s ease-in-out infinite;
+}
+
+@keyframes brandGlow {
+
+    0%,
+    100% {
+        text-shadow: 2px 2px 4px rgba(254, 126, 0, 0.2);
+    }
+
+    50% {
+        text-shadow: 2px 2px 20px rgba(254, 126, 0, 0.6);
+    }
+}
+
+/* ========== PROGRESS BAR ========== */
+.loader-progress {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: rgba(254, 126, 0, 0.1);
+    overflow: hidden;
+}
+
+.loader-progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, #FE7E00 0%, #0d6efd 50%, #FE7E00 100%);
+    background-size: 200% 100%;
+    animation: progressSlide 2s ease-in-out infinite;
+}
+
+@keyframes progressSlide {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+/* ========== ALTERNATIVE: CIRCULAR PROGRESS ========== */
+.circular-progress {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: conic-gradient(#FE7E00 0deg,
+            #0d6efd 180deg,
+            #FE7E00 360deg);
+    animation: rotate 2s linear infinite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circular-progress::before {
+    content: '';
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 50%;
+}
+
+@keyframes rotate {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* ========== FOOD ICONS ANIMATION (OPTIONAL) ========== */
+.loader-icons {
+    display: flex;
+    gap: 1rem;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.loader-icon {
+    animation: iconBounce 1s ease-in-out infinite;
+}
+
+.loader-icon:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.loader-icon:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.loader-icon:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes iconBounce {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 767px) {
+    .loader-logo {
+        width: 80px;
+    }
+
+    .loader-brand {
+        font-size: 1.5rem;
+    }
+
+    .loader-text {
+        font-size: 1.25rem;
+    }
+
+    .loader-spinner {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+/* ========== SMOOTH FADE OUT ========== */
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+/* ========== PRELOAD ANIMATION ========== */
+.preload-animation {
+    animation: scaleIn 0.5s ease;
+}
+
+@keyframes scaleIn {
+    from {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

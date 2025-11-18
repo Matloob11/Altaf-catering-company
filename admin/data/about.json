@@ -1,0 +1,30 @@
+{
+    "title": "About Altaf Catering",
+    "subtitle": "Trusted By 200+ satisfied clients",
+    "description": "Welcome to Altaf Catering Company, where we specialize in creating exceptional culinary experiences for all kinds of events. With years of experience in the catering industry, we pride ourselves on delivering high-quality, delicious food tailored to your unique needs. If you're planning a wedding, corporate event, or any special occasion, we ensure that every detail is handled with care and precision.",
+    "mission": "To provide exceptional catering services that exceed our clients' expectations through quality food, professional service, and attention to detail.",
+    "vision": "To be the leading catering company in Pakistan, known for innovation, quality, and customer satisfaction.",
+    "values": [
+        "Quality First",
+        "Customer Satisfaction",
+        "Professional Excellence",
+        "Innovation & Creativity",
+        "Integrity & Trust"
+    ],
+    "stats": {
+        "customers": 689,
+        "chefs": 107,
+        "events": 253
+    },
+    "features": [
+        "Fresh and Fast food Delivery",
+        "24/7 Customer Support",
+        "Easy Customization Options",
+        "Delicious Deals for Delicious Meals"
+    ],
+    "video_url": "https://youtu.be/ipO6RH1WElQ",
+    "images": {
+        "main": "img/about.jpg",
+        "hero": "img/hero.png"
+    }
+}

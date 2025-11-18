@@ -1,0 +1,134 @@
+{
+    "page_title": "Privacy Policy",
+    "page_subtitle": "Please read how we handle and protect your information",
+    "last_updated": "November 2025",
+    "intro_text": "Below is a clear summary of how Altaf Catering collects, uses, protects, and shares personal information — presented in focused sections for quick scanning.",
+    "sections": [
+        {
+            "id": "scope",
+            "icon": "fas fa-calendar-check",
+            "title": "Scope & Effective Date",
+            "content": "This policy applies to information collected through our website and related services. Effective date: Immediately. We may update this policy; updated versions will include the effective date."
+        },
+        {
+            "id": "collection",
+            "icon": "fas fa-database",
+            "title": "Information We Collect",
+            "content": "Examples: contact details, booking details, payment transaction metadata, and communication content you provide. We may also collect device and analytics data automatically (IP address, browser, pages visited)."
+        },
+        {
+            "id": "use",
+            "icon": "fas fa-tasks",
+            "title": "How We Use Information",
+            "content": "To provide and improve services, process bookings/payments, send confirmations and marketing (with consent), and detect fraud. We use data to tailor the experience and to comply with legal obligations."
+        },
+        {
+            "id": "sharing",
+            "icon": "fas fa-share-alt",
+            "title": "How We Share Information",
+            "content": "We share data with trusted service providers (payment processors, email delivery services, analytics). We do not sell personal data. Where required by law, we may disclose data to authorities."
+        },
+        {
+            "id": "retention",
+            "icon": "fas fa-clock",
+            "title": "Data Retention",
+            "content": "We retain personal data only as long as necessary for the purposes it was collected, or as required by law. Retention periods vary by data type."
+        },
+        {
+            "id": "security",
+            "icon": "fas fa-shield-alt",
+            "title": "Security & Breach Response",
+            "content": "We implement appropriate technical and organizational measures to protect your data. In the unlikely event of a breach, we'll follow legal notification requirements and notify affected users where required."
+        },
+        {
+            "id": "rights",
+            "icon": "fas fa-user-shield",
+            "title": "Your Rights & Choices",
+            "content": "You can request access, correction, or deletion of personal data. You can opt out of marketing communications via the unsubscribe link in emails or by contacting us directly."
+        },
+        {
+            "id": "thirdparties",
+            "icon": "fas fa-globe",
+            "title": "Third Parties & International Transfers",
+            "content": "Some providers may process data outside your country. We take contractual and technical steps to protect data transferred internationally."
+        },
+        {
+            "id": "cookies",
+            "icon": "fas fa-cookie-bite",
+            "title": "Cookies & Tracking Technologies",
+            "content": "Our website uses cookies and similar technologies to enhance your browsing experience, analyze site traffic, and personalize content. You can control cookie settings through your browser preferences at any time. Disabling cookies may affect certain features of our website."
+        },
+        {
+            "id": "children",
+            "icon": "fas fa-child",
+            "title": "Children's Privacy",
+            "content": "Our services are not directed to individuals under the age of 13. We do not knowingly collect personal information from children. If you believe your child has provided us data, please contact us to have it removed."
+        },
+        {
+            "id": "socialmedia",
+            "icon": "fas fa-hashtag",
+            "title": "Social Media & Public Interaction",
+            "content": "If you interact with us through social media platforms (e.g., Facebook, Instagram), please note that your interactions and data are also subject to those platforms' privacy policies. We encourage you to review them for more details."
+        },
+        {
+            "id": "links",
+            "icon": "fas fa-external-link-alt",
+            "title": "Links to Other Websites",
+            "content": "Our website may include links to external websites. We are not responsible for the content or privacy practices of such third-party sites. Please review their policies before submitting any personal information."
+        },
+        {
+            "id": "consent",
+            "icon": "fas fa-check-circle",
+            "title": "Consent",
+            "content": "By using our website, you consent to the collection and use of information as described in this Privacy Policy. If we make significant changes, we will notify you through our website or via email."
+        },
+        {
+            "id": "changes",
+            "icon": "fas fa-sync-alt",
+            "title": "Changes to This Policy",
+            "content": "We may update this Privacy Policy from time to time. The latest version will always be available on this page with an updated effective date. We encourage visitors to check this page periodically."
+        },
+        {
+            "id": "email",
+            "icon": "fas fa-envelope",
+            "title": "Email & Communication Policy",
+            "content": "We may send you service updates, booking confirmations, or promotional messages. You can unsubscribe anytime. We do not share your email address with advertisers or external marketers without your consent."
+        },
+        {
+            "id": "accuracy",
+            "icon": "fas fa-check-double",
+            "title": "Data Accuracy & Updates",
+            "content": "We rely on users to provide accurate personal data. You may request corrections if your details are outdated or incorrect, and we will update them promptly."
+        },
+        {
+            "id": "bookingdata",
+            "icon": "fas fa-book",
+            "title": "Event & Catering Booking Data",
+            "content": "When you book an event with us, we collect details such as menu preferences, event date, and location. This data is used solely to manage your booking and ensure smooth service delivery."
+        },
+        {
+            "id": "payment",
+            "icon": "fas fa-credit-card",
+            "title": "Payment Information Handling",
+            "content": "Payments are securely processed through third-party gateways. We never store your full credit card information. All transactions are encrypted and compliant with PCI standards."
+        },
+        {
+            "id": "employees",
+            "icon": "fas fa-users-cog",
+            "title": "Data Access by Employees",
+            "content": "Only authorized staff members who need access to personal data for legitimate business purposes (like processing bookings) can view it. All employees follow strict confidentiality obligations."
+        },
+        {
+            "id": "legal",
+            "icon": "fas fa-gavel",
+            "title": "Legal Compliance & Enforcement",
+            "content": "We may disclose data if required by law or in response to valid legal requests from public authorities. We will take all reasonable steps to ensure your rights are protected in such cases."
+        },
+        {
+            "id": "contact",
+            "icon": "fas fa-comment-dots",
+            "title": "Contact & Updates",
+            "content": "Questions or requests: altafcatering@gmail.com. For booking-related queries use our Contact page."
+        }
+    ]
+}

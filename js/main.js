@@ -56,12 +56,12 @@
     // Back to top button
     $(window).scroll(function () {
         if ($(this).scrollTop() > 300) {
-            $('.back-to-top').fadeIn('slow');
+            $('.back-to-top, .back-to-top-btn').addClass('show').fadeIn('slow');
         } else {
-            $('.back-to-top').fadeOut('slow');
+            $('.back-to-top, .back-to-top-btn').removeClass('show').fadeOut('slow');
         }
     });
-    $('.back-to-top').click(function () {
+    $('.back-to-top, .back-to-top-btn').click(function () {
         $('html, body').animate({ scrollTop: 0 }, 1500, 'easeInOutExpo');
         return false;
     });

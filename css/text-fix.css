@@ -1,0 +1,113 @@
+/**
+ * Text Visibility Fix
+ * Ensures all text is visible and readable
+ */
+
+/* Force text visibility */
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+div,
+a,
+li,
+td,
+th,
+label,
+input,
+textarea,
+select,
+button {
+    opacity: 1 !important;
+    visibility: visible !important;
+    color: inherit !important;
+}
+
+/* Ensure dark text on light backgrounds */
+.bg-light,
+.bg-white,
+.card,
+.card-body {
+    color: #212529 !important;
+}
+
+/* Ensure light text on dark backgrounds */
+.bg-dark,
+.bg-primary,
+.navbar-dark {
+    color: #ffffff !important;
+}
+
+/* Fix any transparent text */
+* {
+    -webkit-text-fill-color: initial !important;
+}
+
+/* Ensure form elements are visible */
+input,
+textarea,
+select {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Fix placeholder text */
+::placeholder {
+    opacity: 0.6 !important;
+    color: #6c757d !important;
+}
+
+/* Dropdown Menu Fix - CRITICAL */
+.dropdown-menu {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: none !important;
+    /* Hidden by default */
+    background-color: #ffffff !important;
+    border: 1px solid rgba(0, 0, 0, .15) !important;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .175) !important;
+}
+
+.dropdown-menu.show {
+    display: block !important;
+}
+
+.dropdown-item {
+    opacity: 1 !important;
+    visibility: visible !important;
+    color: #212529 !important;
+    display: block !important;
+    padding: 0.5rem 1rem !important;
+    text-decoration: none !important;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+    background-color: #f8f9fa !important;
+    color: #FEA116 !important;
+}
+
+/* Dropdown Toggle Button */
+.dropdown-toggle {
+    opacity: 1 !important;
+    visibility: visible !important;
+    color: inherit !important;
+}
+
+.dropdown-toggle::after {
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: inline-block !important;
+    margin-left: 0.255em !important;
+    vertical-align: 0.255em !important;
+    content: "" !important;
+    border-top: 0.3em solid !important;
+    border-right: 0.3em solid transparent !important;
+    border-bottom: 0 !important;
+    border-left: 0.3em solid transparent !important;
+}

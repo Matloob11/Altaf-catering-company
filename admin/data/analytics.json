@@ -1,0 +1,1217 @@
+{
+    "page_views": [
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/team-detail.php?id=2",
+            "timestamp": 1763304017,
+            "datetime": "2025-11-16 15:40:17"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763377499,
+            "datetime": "2025-11-17 12:04:59"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763377508,
+            "datetime": "2025-11-17 12:05:08"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763377739,
+            "datetime": "2025-11-17 12:08:59"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763377881,
+            "datetime": "2025-11-17 12:11:21"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763378352,
+            "datetime": "2025-11-17 12:19:12"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763378353,
+            "datetime": "2025-11-17 12:19:13"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/ai-chat.php",
+            "timestamp": 1763378406,
+            "datetime": "2025-11-17 12:20:06"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763378904,
+            "datetime": "2025-11-17 12:28:24"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763379131,
+            "datetime": "2025-11-17 12:32:11"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763379263,
+            "datetime": "2025-11-17 12:34:23"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763379265,
+            "datetime": "2025-11-17 12:34:25"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763379654,
+            "datetime": "2025-11-17 12:40:54"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763379941,
+            "datetime": "2025-11-17 12:45:41"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763379943,
+            "datetime": "2025-11-17 12:45:43"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763380046,
+            "datetime": "2025-11-17 12:47:26"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763380051,
+            "datetime": "2025-11-17 12:47:31"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763380933,
+            "datetime": "2025-11-17 13:02:13"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763381315,
+            "datetime": "2025-11-17 13:08:35"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763381318,
+            "datetime": "2025-11-17 13:08:38"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763381521,
+            "datetime": "2025-11-17 13:12:01"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763381832,
+            "datetime": "2025-11-17 13:17:12"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763381969,
+            "datetime": "2025-11-17 13:19:29"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763381997,
+            "datetime": "2025-11-17 13:19:57"
+        },
+        {
+            "page": "homepage",
+            "ip": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko\/20100101 Firefox\/145.0",
+            "referer": "direct",
+            "timestamp": 1763382006,
+            "datetime": "2025-11-17 13:20:06"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763382571,
+            "datetime": "2025-11-17 13:29:31"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763382675,
+            "datetime": "2025-11-17 13:31:15"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763383369,
+            "datetime": "2025-11-17 13:42:49"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763384546,
+            "datetime": "2025-11-17 14:02:26"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763389142,
+            "datetime": "2025-11-17 15:19:02"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763389955,
+            "datetime": "2025-11-17 15:32:35"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763389972,
+            "datetime": "2025-11-17 15:32:52"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763389972,
+            "datetime": "2025-11-17 15:32:52"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763389972,
+            "datetime": "2025-11-17 15:32:52"
+        },
+        {
+            "page": "contact",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763389972,
+            "datetime": "2025-11-17 15:32:52"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763389972,
+            "datetime": "2025-11-17 15:32:52"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763389972,
+            "datetime": "2025-11-17 15:32:52"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763390185,
+            "datetime": "2025-11-17 15:36:25"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763390461,
+            "datetime": "2025-11-17 15:41:01"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763390904,
+            "datetime": "2025-11-17 15:48:24"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763391376,
+            "datetime": "2025-11-17 15:56:16"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763391446,
+            "datetime": "2025-11-17 15:57:26"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "direct",
+            "timestamp": 1763391482,
+            "datetime": "2025-11-17 15:58:02"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763391505,
+            "datetime": "2025-11-17 15:58:25"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763391708,
+            "datetime": "2025-11-17 16:01:48"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763391728,
+            "datetime": "2025-11-17 16:02:08"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763392101,
+            "datetime": "2025-11-17 16:08:21"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763392108,
+            "datetime": "2025-11-17 16:08:28"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763392832,
+            "datetime": "2025-11-17 16:20:32"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763392845,
+            "datetime": "2025-11-17 16:20:45"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763393317,
+            "datetime": "2025-11-17 16:28:37"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763393378,
+            "datetime": "2025-11-17 16:29:38"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/",
+            "timestamp": 1763393385,
+            "datetime": "2025-11-17 16:29:45"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763394080,
+            "datetime": "2025-11-17 16:41:20"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/customer-dashboard.php",
+            "timestamp": 1763394163,
+            "datetime": "2025-11-17 16:42:43"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763394236,
+            "datetime": "2025-11-17 16:43:56"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/",
+            "timestamp": 1763394239,
+            "datetime": "2025-11-17 16:43:59"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763394700,
+            "datetime": "2025-11-17 16:51:40"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/team.php",
+            "timestamp": 1763394959,
+            "datetime": "2025-11-17 16:55:59"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/team.php",
+            "timestamp": 1763394961,
+            "datetime": "2025-11-17 16:56:01"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763395018,
+            "datetime": "2025-11-17 16:56:58"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763395049,
+            "datetime": "2025-11-17 16:57:29"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763395125,
+            "datetime": "2025-11-17 16:58:45"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763395126,
+            "datetime": "2025-11-17 16:58:46"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763395130,
+            "datetime": "2025-11-17 16:58:50"
+        },
+        {
+            "page": "contact",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763395132,
+            "datetime": "2025-11-17 16:58:52"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763395249,
+            "datetime": "2025-11-17 17:00:49"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763395251,
+            "datetime": "2025-11-17 17:00:51"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763395261,
+            "datetime": "2025-11-17 17:01:01"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763395418,
+            "datetime": "2025-11-17 17:03:38"
+        },
+        {
+            "page": "contact",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763395420,
+            "datetime": "2025-11-17 17:03:40"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/contact.php",
+            "timestamp": 1763395421,
+            "datetime": "2025-11-17 17:03:41"
+        },
+        {
+            "page": "blog",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763395423,
+            "datetime": "2025-11-17 17:03:43"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/terms.php",
+            "timestamp": 1763395442,
+            "datetime": "2025-11-17 17:04:02"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763395444,
+            "datetime": "2025-11-17 17:04:04"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763395459,
+            "datetime": "2025-11-17 17:04:19"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763395463,
+            "datetime": "2025-11-17 17:04:23"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763395470,
+            "datetime": "2025-11-17 17:04:30"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763395475,
+            "datetime": "2025-11-17 17:04:35"
+        },
+        {
+            "page": "blog",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763395478,
+            "datetime": "2025-11-17 17:04:38"
+        },
+        {
+            "page": "contact",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/terms.php",
+            "timestamp": 1763395527,
+            "datetime": "2025-11-17 17:05:27"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763395959,
+            "datetime": "2025-11-17 17:12:39"
+        },
+        {
+            "page": "booking",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/team.php",
+            "timestamp": 1763395976,
+            "datetime": "2025-11-17 17:12:56"
+        },
+        {
+            "page": "blog",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/book.php",
+            "timestamp": 1763395977,
+            "datetime": "2025-11-17 17:12:57"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763395986,
+            "datetime": "2025-11-17 17:13:06"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/careers.php",
+            "timestamp": 1763395992,
+            "datetime": "2025-11-17 17:13:12"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763396067,
+            "datetime": "2025-11-17 17:14:27"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763396070,
+            "datetime": "2025-11-17 17:14:30"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763396477,
+            "datetime": "2025-11-17 17:21:17"
+        },
+        {
+            "page": "service-detail-2",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763396483,
+            "datetime": "2025-11-17 17:21:23"
+        },
+        {
+            "page": "service-detail-3",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service-detail.php?id=2",
+            "timestamp": 1763396503,
+            "datetime": "2025-11-17 17:21:43"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service-detail.php?id=3",
+            "timestamp": 1763396512,
+            "datetime": "2025-11-17 17:21:52"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763396514,
+            "datetime": "2025-11-17 17:21:54"
+        },
+        {
+            "page": "service-detail-8",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763396537,
+            "datetime": "2025-11-17 17:22:17"
+        },
+        {
+            "page": "service-detail-7",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763396541,
+            "datetime": "2025-11-17 17:22:21"
+        },
+        {
+            "page": "service-detail-6",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763396544,
+            "datetime": "2025-11-17 17:22:24"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763396650,
+            "datetime": "2025-11-17 17:24:10"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "direct",
+            "timestamp": 1763396793,
+            "datetime": "2025-11-17 17:26:33"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/gallery.php",
+            "timestamp": 1763397139,
+            "datetime": "2025-11-17 17:32:19"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763397144,
+            "datetime": "2025-11-17 17:32:24"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763397146,
+            "datetime": "2025-11-17 17:32:26"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763397149,
+            "datetime": "2025-11-17 17:32:29"
+        },
+        {
+            "page": "contact",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763397150,
+            "datetime": "2025-11-17 17:32:30"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/contact.php",
+            "timestamp": 1763397152,
+            "datetime": "2025-11-17 17:32:32"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/contact.php",
+            "timestamp": 1763397429,
+            "datetime": "2025-11-17 17:37:09"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763397853,
+            "datetime": "2025-11-17 17:44:13"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763397871,
+            "datetime": "2025-11-17 17:44:31"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763397884,
+            "datetime": "2025-11-17 17:44:44"
+        },
+        {
+            "page": "service-detail-4",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763397895,
+            "datetime": "2025-11-17 17:44:55"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763397908,
+            "datetime": "2025-11-17 17:45:08"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763437970,
+            "datetime": "2025-11-18 04:52:50"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763437976,
+            "datetime": "2025-11-18 04:52:56"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763438452,
+            "datetime": "2025-11-18 05:00:52"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/terms.php",
+            "timestamp": 1763440211,
+            "datetime": "2025-11-18 05:30:11"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440214,
+            "datetime": "2025-11-18 05:30:14"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440215,
+            "datetime": "2025-11-18 05:30:15"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440217,
+            "datetime": "2025-11-18 05:30:17"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440218,
+            "datetime": "2025-11-18 05:30:18"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763440220,
+            "datetime": "2025-11-18 05:30:20"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763440221,
+            "datetime": "2025-11-18 05:30:21"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763440558,
+            "datetime": "2025-11-18 05:35:58"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440572,
+            "datetime": "2025-11-18 05:36:12"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440574,
+            "datetime": "2025-11-18 05:36:14"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/service.php",
+            "timestamp": 1763440576,
+            "datetime": "2025-11-18 05:36:16"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763440577,
+            "datetime": "2025-11-18 05:36:17"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763440579,
+            "datetime": "2025-11-18 05:36:19"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763440582,
+            "datetime": "2025-11-18 05:36:22"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763440878,
+            "datetime": "2025-11-18 05:41:18"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763441278,
+            "datetime": "2025-11-18 05:47:58"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763441901,
+            "datetime": "2025-11-18 05:58:21"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763446473,
+            "datetime": "2025-11-18 07:14:33"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763446690,
+            "datetime": "2025-11-18 07:18:10"
+        },
+        {
+            "page": "homepage",
+            "ip": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko\/20100101 Firefox\/145.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763447489,
+            "datetime": "2025-11-18 07:31:29"
+        },
+        {
+            "page": "homepage",
+            "ip": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko\/20100101 Firefox\/145.0",
+            "referer": "http:\/\/localhost\/",
+            "timestamp": 1763447717,
+            "datetime": "2025-11-18 07:35:17"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763447901,
+            "datetime": "2025-11-18 07:38:21"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763448029,
+            "datetime": "2025-11-18 07:40:29"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763448889,
+            "datetime": "2025-11-18 07:54:49"
+        },
+        {
+            "page": "about",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/index.php",
+            "timestamp": 1763448899,
+            "datetime": "2025-11-18 07:54:59"
+        },
+        {
+            "page": "services",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/about.php",
+            "timestamp": 1763448901,
+            "datetime": "2025-11-18 07:55:01"
+        },
+        {
+            "page": "menu",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/event.php",
+            "timestamp": 1763448905,
+            "datetime": "2025-11-18 07:55:05"
+        },
+        {
+            "page": "homepage",
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+            "referer": "https:\/\/localhost\/altaf-catering\/menu.php",
+            "timestamp": 1763448906,
+            "datetime": "2025-11-18 07:55:06"
+        }
+    ],
+    "visitors": {
+        "8d7e15dda53d61fa899da4a2fee1371e": {
+            "first_visit": "2025-11-16 15:40:17",
+            "last_visit": "2025-11-18 07:55:06",
+            "visit_count": 135,
+            "pages_viewed": [
+                "homepage",
+                "about",
+                "services",
+                "contact",
+                "booking",
+                "menu",
+                "blog",
+                "service-detail-2",
+                "service-detail-3",
+                "service-detail-8",
+                "service-detail-7",
+                "service-detail-6",
+                "service-detail-4"
+            ],
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0"
+        },
+        "e6331369eafe4f96f6648887ffb7d607": {
+            "first_visit": "2025-11-17 13:20:06",
+            "last_visit": "2025-11-18 07:35:17",
+            "visit_count": 3,
+            "pages_viewed": [
+                "homepage"
+            ],
+            "ip": "127.0.0.1",
+            "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko\/20100101 Firefox\/145.0"
+        },
+        "256b94084e9b00c3f6506c85898ff589": {
+            "first_visit": "2025-11-18 05:47:58",
+            "last_visit": "2025-11-18 07:54:49",
+            "visit_count": 3,
+            "pages_viewed": [
+                "homepage"
+            ],
+            "ip": "::1",
+            "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/18.5 Mobile\/15E148 Safari\/604.1 Edg\/142.0.0.0"
+        }
+    },
+    "daily_stats": {
+        "2025-11-16": {
+            "date": "2025-11-16",
+            "page_views": 1,
+            "unique_visitors": 0,
+            "pages": {
+                "homepage": 1
+            }
+        },
+        "2025-11-17": {
+            "date": "2025-11-17",
+            "page_views": 109,
+            "unique_visitors": 0,
+            "pages": {
+                "homepage": 54,
+                "about": 5,
+                "services": 13,
+                "contact": 5,
+                "booking": 17,
+                "menu": 6,
+                "blog": 3,
+                "service-detail-2": 1,
+                "service-detail-3": 1,
+                "service-detail-8": 1,
+                "service-detail-7": 1,
+                "service-detail-6": 1,
+                "service-detail-4": 1
+            }
+        },
+        "2025-11-18": {
+            "date": "2025-11-18",
+            "page_views": 31,
+            "unique_visitors": 0,
+            "pages": {
+                "homepage": 23,
+                "about": 3,
+                "services": 4,
+                "menu": 1
+            }
+        }
+    }
+}

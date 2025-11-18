@@ -1,0 +1,127 @@
+{
+    "page_title": "Terms & Conditions",
+    "page_subtitle": "Please read these terms carefully before using our services",
+    "last_updated": "November 2025",
+    "sections": [
+        {
+            "id": "services",
+            "icon": "fas fa-handshake",
+            "title": "Services and Bookings",
+            "content": "Altaf Catering provides catering and event management services as described on this website. All bookings must be made at least 48 hours in advance and are subject to availability and confirmation. A booking request does not constitute a confirmed booking until you receive written confirmation from us."
+        },
+        {
+            "id": "payments",
+            "icon": "fas fa-money-bill-wave",
+            "title": "Payments and Deposits",
+            "content": "A deposit is required at the time of booking to secure your event date. Final payments must be made before the event as outlined in your booking confirmation. Payment methods and timelines are specified in the booking documents. Failure to pay within the specified time may result in cancellation of your booking."
+        },
+        {
+            "id": "cancellations",
+            "icon": "fas fa-calendar-times",
+            "title": "Cancellations and Refunds",
+            "content": "All cancellations must be communicated in writing. Cancellation fees may apply depending on notice period. Refunds will be processed as per booking terms. Non-refundable deposits will not be returned once services are confirmed. For postponements, we will attempt to reschedule subject to availability."
+        },
+        {
+            "id": "client_responsibilities",
+            "icon": "fas fa-clipboard-list",
+            "title": "Client Responsibilities",
+            "content": "The client must provide accurate event details (date, time, location, guest count) and ensure venue suitability for catering operations. Last-minute changes or delays may incur additional charges. The client is responsible for venue access and necessary permissions."
+        },
+        {
+            "id": "menu",
+            "icon": "fas fa-utensils",
+            "title": "Menu and Dietary Requirements",
+            "content": "We accommodate dietary needs (vegetarian, halal, allergies) when notified in advance. Menu items may vary based on ingredient availability. Altaf Catering reserves the right to make suitable substitutions when necessary while maintaining quality standards."
+        },
+        {
+            "id": "food_safety",
+            "icon": "fas fa-shield-alt",
+            "title": "Food Safety and Quality",
+            "content": "All food is prepared in hygienic conditions following safety guidelines. Food must be consumed within recommended timeframes. We are not responsible for issues arising from improper storage or delayed consumption after delivery or service."
+        },
+        {
+            "id": "equipment",
+            "icon": "fas fa-boxes",
+            "title": "Event Setup and Equipment",
+            "content": "If Altaf Catering provides tables, chairs, utensils, or any other event equipment, it must be used responsibly and returned in the same condition. Any loss or damage to our equipment will be billed to the client at replacement cost."
+        },
+        {
+            "id": "damage",
+            "icon": "fas fa-exclamation-triangle",
+            "title": "Damage or Loss",
+            "content": "The client will be held responsible for any damage to catering equipment, decorations, or property caused by guests during the event. Altaf Catering will not be liable for any damage to the client's property or venue unless caused by proven negligence of our staff."
+        },
+        {
+            "id": "staff",
+            "icon": "fas fa-user-tie",
+            "title": "Staff Conduct",
+            "content": "Our staff members maintain professional behavior and hygiene standards. Any inappropriate treatment towards our staff will result in immediate service withdrawal without refund. We reserve the right to refuse service to any person behaving aggressively or inappropriately."
+        },
+        {
+            "id": "delivery",
+            "icon": "fas fa-clock",
+            "title": "Delivery and Timing",
+            "content": "We strive for punctual delivery and service. However, delays may occur due to traffic or weather. Altaf Catering is not liable for delays caused by circumstances beyond our reasonable control."
+        },
+        {
+            "id": "prohibited",
+            "icon": "fas fa-ban",
+            "title": "Prohibited Items",
+            "content": "Altaf Catering does not provide alcoholic beverages. The client must ensure no illegal or prohibited items are used or consumed at the event venue."
+        },
+        {
+            "id": "force_majeure",
+            "icon": "fas fa-exclamation-circle",
+            "title": "Force Majeure",
+            "content": "We are not liable for cancellations due to circumstances beyond our control (natural disasters, strikes, accidents, government restrictions). We will attempt to reschedule or provide credit notes in such cases."
+        },
+        {
+            "id": "intellectual_property",
+            "icon": "fas fa-copyright",
+            "title": "Intellectual Property",
+            "content": "All website content, including text, images, and logos, is Altaf Catering's property. You may not reproduce or distribute any content without written consent."
+        },
+        {
+            "id": "photography",
+            "icon": "fas fa-camera",
+            "title": "Photography",
+            "content": "We may photograph events for marketing. If you don't want photography at your event, please notify us in writing beforehand."
+        },
+        {
+            "id": "liability",
+            "icon": "fas fa-shield-alt",
+            "title": "Liability Limitation",
+            "content": "Our liability for direct losses shall not exceed the total amount paid for the booking. We're not liable for indirect or consequential losses."
+        },
+        {
+            "id": "privacy",
+            "icon": "fas fa-user-shield",
+            "title": "Privacy Protection",
+            "content": "Your personal information is used only for service-related purposes and not shared with third parties without consent, except as required by law."
+        },
+        {
+            "id": "legal",
+            "icon": "fas fa-gavel",
+            "title": "Legal Framework",
+            "content": "These terms are governed by Pakistani law, with disputes handled by Pakistani courts."
+        },
+        {
+            "id": "agreement",
+            "icon": "fas fa-file-contract",
+            "title": "Complete Agreement",
+            "content": "These terms constitute the complete agreement. Verbal promises or external documents are not binding unless agreed in writing."
+        },
+        {
+            "id": "updates",
+            "icon": "fas fa-sync",
+            "title": "Terms Updates",
+            "content": "We may update these terms anytime. Continued use of our services indicates acceptance of changes."
+        },
+        {
+            "id": "contact",
+            "icon": "fas fa-envelope",
+            "title": "Contact Us",
+            "content": "For questions about these terms, contact us at altafcatering@gmail.com or through our Contact page."
+        }
+    ]
+}

@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /css/
-Disallow: /js/
-Disallow: /lib/
-
-Sitemap: https://altafcatering.com/sitemap.xml

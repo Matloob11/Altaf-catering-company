@@ -1,0 +1,115 @@
+{
+    "packages": [
+        {
+            "id": 1,
+            "name": "Basic Package",
+            "price": 50000,
+            "description": "Perfect for small gatherings",
+            "features": [
+                "Up to 50 guests",
+                "3 Course Menu",
+                "Basic Decoration",
+                "Standard Service Staff",
+                "4 Hours Service"
+            ],
+            "popular": false,
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Premium Package",
+            "price": 150000,
+            "description": "Ideal for medium-sized events",
+            "features": [
+                "Up to 150 guests",
+                "5 Course Menu",
+                "Premium Decoration",
+                "Professional Service Staff",
+                "6 Hours Service",
+                "Complimentary Beverages",
+                "Custom Menu Options"
+            ],
+            "popular": true,
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "Luxury Package",
+            "price": 300000,
+            "description": "Ultimate experience for grand events",
+            "features": [
+                "Up to 300 guests",
+                "7 Course Gourmet Menu",
+                "Luxury Decoration & Setup",
+                "Premium Service Staff",
+                "8 Hours Service",
+                "Premium Beverages",
+                "Live Cooking Stations",
+                "Dedicated Event Manager",
+                "Photography Services"
+            ],
+            "popular": false,
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "OLD-HACKER",
+            "price": "555",
+            "description": "bhai yar abi is main ya bi add karo ka ager kabi gallery blogs wagera main kabi multible cheezain ak sath delete karny hoin ya feature bi in main add karo all page smain",
+            "features": [
+                "bhai yar abi is main ya bi add karo ka ager kabi gallery blogs wagera main kabi multible cheezain ak sath delete karny hoin ya feature bi in main add karo all page smainbhai yar abi is main ya bi add karo ka ager kabi gallery blogs wagera main kabi multible cheezain ak sath delete karny hoin ya feature bi in main add karo all page smain"
+            ],
+            "popular": true,
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "OLD-HACKER",
+            "price": "555",
+            "description": "bhai yar abi is main ya bi add karo ka ager kabi gallery blogs wagera main kabi multible cheezain ak sath delete karny hoin ya feature bi in main add karo all page smain",
+            "features": [
+                "bhai yar abi is main ya bi add karo ka ager kabi gallery blogs wagera main kabi multible cheezain ak sath delete karny hoin ya feature bi in main add karo all page smainbhai yar abi is main ya bi add karo ka ager kabi gallery blogs wagera main kabi multible cheezain ak sath delete karny hoin ya feature bi in main add karo all page smain"
+            ],
+            "popular": true,
+            "status": "active"
+        }
+    ],
+    "faqs": [
+        {
+            "id": 1,
+            "question": "How far in advance should I book?",
+            "answer": "We recommend booking at least 2-3 months in advance for weddings and large events. For smaller events, 2-4 weeks notice is usually sufficient.",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "question": "Do you provide vegetarian and vegan options?",
+            "answer": "Yes! We offer a wide variety of vegetarian and vegan menu options. Our chefs can customize menus to accommodate any dietary restrictions or preferences.",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "question": "What is your cancellation policy?",
+            "answer": "Cancellations made 30 days or more before the event receive a full refund. Cancellations made 15-29 days before receive a 50% refund. Cancellations made less than 15 days before are non-refundable.",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "question": "Can I customize the menu?",
+            "answer": "Absolutely! We encourage menu customization. Our team will work with you to create a menu that perfectly suits your event and preferences.",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "question": "Do you provide staff for the event?",
+            "answer": "Yes, all our packages include professional service staff. The number of staff members depends on your package and guest count.",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "question": "bhai yar pricing or faqs ko bi chack karo ya work nahi kar raha ",
+            "answer": "bhai yar pricing or faqs ko bi chack karo ya work nahi kar raha bhai yar pricing or faqs ko bi chack karo ya work nahi kar raha ",
+            "status": "active"
+        }
+    ]
+}

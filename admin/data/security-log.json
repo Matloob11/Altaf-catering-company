@@ -1,0 +1,38 @@
+[
+    {
+        "event": "customer_registered",
+        "details": {
+            "email": "matloobulhassnain11@gmail.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+        "timestamp": "2025-11-17 16:40:52"
+    },
+    {
+        "event": "customer_login_failed",
+        "details": {
+            "email": "matloobulhassnain786786@gmail.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+        "timestamp": "2025-11-17 16:41:00"
+    },
+    {
+        "event": "customer_registered",
+        "details": {
+            "email": "matloobulhassnain111@gmail.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+        "timestamp": "2025-11-17 16:42:03"
+    },
+    {
+        "event": "customer_login_success",
+        "details": {
+            "email": "matloobulhassnain111@gmail.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36 Edg\/142.0.0.0",
+        "timestamp": "2025-11-17 16:42:13"
+    }
+]

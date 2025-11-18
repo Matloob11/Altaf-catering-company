@@ -1,0 +1,306 @@
+/* Professional Gallery Styles - FIXED FOR 2 COLUMNS MINIMUM */
+
+/* ========================================
+   CRITICAL: Force minimum 2 columns
+   ======================================== */
+.gallery-item {
+    width: 50% !important;
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    min-width: 50% !important;
+}
+
+/* Desktop - 3 columns */
+@media (min-width: 992px) {
+    .gallery-item {
+        width: 33.333333% !important;
+        flex: 0 0 33.333333% !important;
+        max-width: 33.333333% !important;
+        min-width: 33.333333% !important;
+    }
+}
+
+/* Tablet - 2 columns */
+@media (min-width: 768px) and (max-width: 991px) {
+    .gallery-item {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        min-width: 50% !important;
+    }
+}
+
+/* ========================================
+   Filter Buttons
+   ======================================== */
+.btn-filter {
+    background: #fff;
+    border: 2px solid #e9ecef;
+    color: #495057;
+    padding: 12px 24px;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-filter:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    border-color: #FEA116;
+    color: #FEA116;
+}
+
+.btn-filter.active {
+    background: linear-gradient(135deg, #FEA116 0%, #ff8c00 100%);
+    border-color: #FEA116;
+    color: #fff;
+    box-shadow: 0 8px 20px rgba(254, 161, 22, 0.3);
+}
+
+.btn-filter .badge {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+}
+
+/* ========================================
+   Gallery Card
+   ======================================== */
+.gallery-card {
+    background: #fff;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid #f0f0f0;
+}
+
+.gallery-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+.gallery-card:hover .gallery-image {
+    transform: scale(1.1);
+}
+
+.gallery-image-wrapper {
+    overflow: hidden;
+    background: #000;
+}
+
+/* ========================================
+   Category Badge
+   ======================================== */
+.badge-category {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.85rem;
+    border: 1px solid rgba(254, 161, 22, 0.3);
+}
+
+/* ========================================
+   Modern Overlay - FIXED: Hidden by default
+   ======================================== */
+.gallery-overlay-modern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(254, 161, 22, 0.95) 0%, rgba(44, 62, 80, 0.95) 100%);
+    display: none !important;
+    z-index: 2;
+}
+
+.gallery-card:hover .gallery-overlay-modern {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    animation: fadeInOverlay 0.4s ease forwards;
+}
+
+@keyframes fadeInOverlay {
+    from {
+        opacity: 0;
+        transform: scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* ========================================
+   Card Footer
+   ======================================== */
+.gallery-card-footer {
+    transition: all 0.3s ease;
+}
+
+.gallery-card:hover .gallery-card-footer {
+    background: #f8f9fa;
+}
+
+/* ========================================
+   Shadow Effects
+   ======================================== */
+.shadow-hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* ========================================
+   Stats Badges
+   ======================================== */
+.badge.bg-light {
+    background: #fff !important;
+    border: 2px solid #e9ecef;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.badge.bg-light:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-color: #FEA116;
+}
+
+/* ========================================
+   Button Group Modern
+   ======================================== */
+.btn-group-modern {
+    background: #fff;
+    border: 1px solid #e9ecef;
+}
+
+/* ========================================
+   Empty State
+   ======================================== */
+.alert-info {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border: none;
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+/* ========================================
+   Loading Animation
+   ======================================== */
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.gallery-item {
+    animation: fadeInScale 0.5s ease forwards;
+}
+
+/* ========================================
+   RESPONSIVE - Mobile Optimizations
+   ======================================== */
+
+/* Mobile - 2 columns FORCED */
+@media (max-width: 767px) {
+    .gallery-item {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        min-width: 50% !important;
+    }
+
+    .gallery-card {
+        margin-bottom: 1rem;
+    }
+
+    .gallery-image-wrapper img {
+        height: 250px !important;
+    }
+
+    .gallery-card-footer {
+        padding: 0.75rem !important;
+    }
+
+    .gallery-card-footer h6 {
+        font-size: 0.85rem;
+    }
+
+    .btn-filter {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Small Mobile - 2 columns FORCED */
+@media (max-width: 576px) {
+    .gallery-item {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        min-width: 50% !important;
+    }
+
+    .gallery-image-wrapper img {
+        height: 220px !important;
+    }
+
+    .btn-filter span:not(.badge) {
+        display: none;
+    }
+
+    .btn-filter i {
+        margin-right: 0 !important;
+    }
+}
+
+/* Extra Small - 2 columns FORCED */
+@media (max-width: 400px) {
+    .gallery-item {
+        width: 50% !important;
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+        min-width: 50% !important;
+    }
+
+    .gallery-image-wrapper img {
+        height: 200px !important;
+    }
+
+    .gallery-card-footer h6 {
+        font-size: 0.8rem;
+    }
+
+    .btn-filter {
+        padding: 8px 16px;
+        font-size: 0.85rem;
+    }
+}
+
+/* ========================================
+   Grid Spacing
+   ======================================== */
+.row.g-4 {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+}
+
+.row.g-4>* {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+
+/* ========================================
+   Lightbox Enhancement
+   ======================================== */
+.lb-data .lb-caption {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}

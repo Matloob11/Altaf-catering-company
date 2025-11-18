@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "category": "Pakistani",
+        "description": "Aromatic basmati rice cooked with tender chicken pieces, traditional spices and herbs",
+        "price": "450",
+        "image": "img\/menu-01.jpg",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Beef Karahi",
+        "category": "Pakistani",
+        "description": "Tender beef cooked in a wok with tomatoes, green chilies and aromatic spices",
+        "price": "650",
+        "image": "img\/menu-02.jpg",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Tikka",
+        "category": "BBQ",
+        "description": "Marinated chicken pieces grilled to perfection with traditional spices",
+        "price": "550",
+        "image": "img\/menu-03.jpg",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "Seekh Kabab",
+        "category": "BBQ",
+        "description": "Minced meat seasoned with spices and grilled on skewers",
+        "price": "500",
+        "image": "img\/menu-04.jpg",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Manchurian",
+        "category": "Chinese",
+        "description": "Crispy chicken balls in tangy Chinese sauce with vegetables",
+        "price": "600",
+        "image": "img\/menu-05.jpg",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "Fried Rice",
+        "category": "Chinese",
+        "description": "Stir-fried rice with vegetables, eggs and your choice of meat",
+        "price": "400",
+        "image": "img\/menu-06.jpg",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "name": "Grilled Chicken",
+        "category": "Continental",
+        "description": "Juicy grilled chicken breast served with vegetables and sauce",
+        "price": "700",
+        "image": "img\/menu-07.jpg",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "name": "Beef Steak",
+        "category": "Continental",
+        "description": "Premium beef steak grilled to your preference with sides",
+        "price": "1200",
+        "image": "img\/menu-08.jpg",
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "name": "Gulab Jamun",
+        "category": "Desserts",
+        "description": "Soft milk-solid dumplings soaked in sweet rose-flavored syrup",
+        "price": "200",
+        "image": "img\/menu-01.jpg",
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "name": "Fresh Juice",
+        "category": "Beverages",
+        "description": "Freshly squeezed seasonal fruit juice",
+        "price": "150",
+        "image": "img\/menu-02.jpg",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "name": "Soft Drinks",
+        "category": "Beverages",
+        "description": "Chilled soft drinks - Coke, Sprite, Fanta",
+        "price": "80",
+        "image": "img\/menu-03.jpg",
+        "status": "active"
+    }
+]
